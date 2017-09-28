@@ -17,13 +17,13 @@ There are a few key details about the Bootstrap Grid. You can read more about it
 
 | Columns        | 12                   |
 | Width          | 100% of screen size  |
-| Gutter width   | 30px                 |
-| Outer margin   | 15px on each side    |
+| Gutter   | 30px                 |
+| Margin   | 15px on each side    |
 
 _According to the [Bootstrap v4.0 docs](https://getbootstrap.com/docs/4.0/layout/grid/)_
 
 <!--more-->
-## Exercises
+## Exercise
 
 1. Create a new design document, and select the `frame` tool or hit `F`.
 2. In the design panel on the right, open the "Desktop" presets, and select "Desktop (1024 x 1024)". This will automatically create a 1024 x 1024 frame for you.

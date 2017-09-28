@@ -21,7 +21,7 @@ On the web, there are many popular grid system frameworks. A grid framework is a
 When designing for native mobile apps, grid systems can be simpler. A 12-column grid is overkill for tiny screens, but it's still a good idea to use a 2–5 column grid with clear outer margins to make the task of alignment easier.
 
 <!--more-->
-## Exercises
+## Exercise
 
 1. Create a new design document, and draw a `frame` (the suggested size is 1024 x 1024, but it doesn't have to be exact).
 2. With the frame selected, add a layout grid. You should see lightly colored vertical stripes on your frame now.

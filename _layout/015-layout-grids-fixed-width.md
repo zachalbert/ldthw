@@ -9,15 +9,15 @@ tags:
   - responsive web design
 ---
 
-In the [last exercise](LINKME), you set up a fluid width grid. That type of grid will stretch and shrink in proportion to the different device widths that view it. That may work fine for certain cases like web apps, but you'll want to use a fixed width grid for text-heavy designs like blogs and content sites.
+In the [last exercise](LINKME), you set up a fluid width grid. That Type of grid will stretch and shrink in proportion to the different device widths that view it. That may work fine for certain cases like web apps, but you'll want to use a fixed width grid for text-heavy designs like blogs and content sites.
 
-When designing for written content, it's important to conform to a [sensible typographic measure](LINKME), or line length. A fixed width grid will allow you to control for optimal line length much easier than with a fluid width grid.
+When designing for written content, you can greatly enhance readability by using a [sensible typographic measure](LINKME), or line length. A fixed width grid will allow you to control for optimal line length much easier than with a fluid width grid.
 
-# Fixed Grids Are Tied to Screen Widths
+### Fixed Grids Are Tied to Screen Widths
 
 By definition, fixed width layout grids are associated with specific screen widths. For instance, a fixed grid that is 960px wide will only fit inside a screen at least that wide. If the screen size is 1200px wide, then the fixed grid will still be 960px wide. That means you can trust that your layout won't get any wider, no matter how big the screen is.
 
-# Breakpoints
+### Breakpoints
 
 Here's the problem with fixed width grids, though. In the example where you have a layout grid which is 960px, it's too wide for smaller screens like tablets and mobiles. Optimal widths are completely different for mobile, tablet, desktop, smart watch, and cinema displays. You can solve this problem with breakpoints.
 
@@ -36,7 +36,7 @@ Screen Width                                              | Layout Dimensions   
 _According to the [Bootstrap v4.0 docs](https://getbootstrap.com/docs/4.0/layout/grid/)_
 
 <!--more-->
-## Exercises
+## Exercise
 
 In this exercise, you're going to learn how to set up your frames for a responsive web design project. You're going to follow Bootstrap conventions, though you can break these conventions once you know how it all fits together. If you do choose to veer from the conventional layout settings, before you commit, make sure your programmer (or you) have the ability to customize the grid system you're using.
 
@@ -48,35 +48,36 @@ In this exercise, you're going to learn how to set up your frames for a responsi
 6. Select the smallest frame, which is your mobile screen view. Add a new layout grid.
 7. Refer to the [previous exercise](LINKME TO FLUID GRID LESSON) if you need a refresher on how to set up a fluid grid. Use the following settings. *Note that you're using 6 columns instead of the expected 12, since using 12 columns at mobile sizes results in columns so tiny they're useless.*
 
-| columns | 6 |
-| width | auto |
-| gutter | 30 |
-| type | stretch |
-| margin | 15 |
+| Columns | 6 |
+| Width | Auto |
+| Gutter | 30 |
+| Type | Stretch |
+| Margin | 15 |
 
-8. Now, add a *fixed* layout grid to your tablet frame. Use the following settings for this layout grid. Once you've set it up, Test that it works by making the frame wider. The grid should stay centered with growing or shrinking.
+8. Now, add a *fixed* layout grid to your tablet frame. Use the following settings for this layout grid, in this order.
 
-| columns | 12 |
-| width (change the type field first) | 34 |
-| gutter | 30 |
-| type | center |
-| offset | - |
+| Type | Center |
+| Columns | 12 |
+| Width | 34 |
+| Gutter | 30 |
+| Offset | - |
 
+9. Test that it works by making the frame wider. The grid should stay centered without growing or shrinking.
 10. Now use the follow layout settings for your desktop frame:
 
-| columns | 12 |
-| width (change the type field first) | 52 |
-| gutter | 30 |
-| type | center |
-| offset | - |
+| Type | Center |
+| Columns | 12 |
+| Width | 52 |
+| Gutter | 30 |
+| Offset | - |
 
 11. And finally, use these settings for your desktop HD frame:
 
-| columns | 12 |
-| width (change the type field first) | 68 |
-| gutter | 30 |
-| type | center |
-| offset | - |
+| Type | Center |
+| Columns | 12 |
+| Width | 68 |
+| Gutter | 30 |
+| Offset | - |
 
 You should now have layout grids on each of your four frames. If you have an eye for detail, you may have noticed that the total width of the layout grids aren't *exactly* lined up to the Bootstrap measurements in the table provided. For instance, the tablet grid is only 738px instead of 740px, the desktop grid is 6px too skinny, and desktop HD is 6px too wide. These slight variations are a result of trying to keep column widths from being placed on fractions of pixels (or sub-pixels), and aren't anything to worry about.
 
