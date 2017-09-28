@@ -35,8 +35,7 @@ Screen Width                                              | Layout Dimensions   
 
 _According to the [Bootstrap v4.0 docs](https://getbootstrap.com/docs/4.0/layout/grid/)_
 
-<!-- more -->
-
+<!--more-->
 ## Exercises
 
 In this exercise, you're going to learn how to set up your frames for a responsive web design project. You're going to follow Bootstrap conventions, though you can break these conventions once you know how it all fits together. If you do choose to veer from the conventional layout settings, before you commit, make sure your programmer (or you) have the ability to customize the grid system you're using.
