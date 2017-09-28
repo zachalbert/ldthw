@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Layout Grids: Fluid Width"
+title:  "Layout Grids: Fixed Width"
 date:   2017-01-01 13:37:11 -0700
 tags:
 - grids
 - layout
-- responsive web design
 ---
 In this exercise, you're going to set up a frame to work with Bootstrap's grid system.
 
@@ -40,4 +39,4 @@ _According to the [Bootstrap v4.0 docs](https://getbootstrap.com/docs/4.0/layout
 13. With the rectangle selected, under the "Constraints" section in the design panel, change the topmost dropdown to say "Left & Right".
 14. These constraints will ensure that your shape will remain 6 columns wide, no matter the size of your frame. See it in action by selecting the frame and changing its width.
 
-In the next lesson, you're going to create a fixed layout grid, which works better for text-heavy layouts.
+In the next lesson, we're going to create a fixed layout grid, which works better for text-heavy layouts.
