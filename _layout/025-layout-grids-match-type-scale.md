@@ -18,7 +18,7 @@ It's surprisingly easy to do this, once you know how. After this exercise, you'l
 
 Can you tell which of the following layouts uses a consistent typographic and layout system? The differences are subtle, but if you can't tell at first, *look at the negative space*. When you focus your eyes not on the design elements, but the space between those elements, the difference between the two layouts should be much more clear.
 
-![thing](/images/layout-grids-match-type-scale-01.png)
+!["Layout and type system"](/images/layout-grids-match-type-scale-01.png)
 
 <!--more-->
 ## Exercise
@@ -35,11 +35,8 @@ Can you tell which of the following layouts uses a consistent typographic and la
 
 *Note: in Figma, the default line height uses percentages. This is good, but it's best to use pixels while learning how type systems work so you can see the underlying proportions easier. Make sure to type "px" after the number to switch to pixel-based measurements.*
 
-2. Draw the following layout using gray rectangles
+2. Draw the following layout using gray rectangles and the five text elements you just set up.
 
-1. Once you have created your 5 text elements, add them to the
-2. Create components out of each.
-3. On the mobile artboard, build a low fidelity modal component. It should have a title, a few sentences of paragraph text, a primary "OK" button, a secondary "Cancel" button, and a close button.
-4. Create a component out of the modal, and create new instances on each of your 4 artboards.
-5. On the mobile artboard, the modal should be full width (6 columns), 8 columns for tablet, 6 for desktop, and 4 for desktop HD. Scaling these components will likely break the layout. Don't worry about this yet.
-6. On the mobile artboard, use constraints until the layout works across all sizes.
+!["Example layout"](/images/layout-grids-match-type-scale-02.png)
+
+3. Make sure you snap to the grid, and use consistent spacing between elements. Watch the video to see how it's done.
