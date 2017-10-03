@@ -35,4 +35,4 @@ Combining horizontal and vertical layout grids that use proportionally similar m
 | Gutter | 15 |
 | Offset | 0 |
 
-Now that you've learned to set up frames for responsive web design, in the next lesson you're going to tweak your grid settings to match a typographic system. This process is the holy grail which will let you design clean, well-ordered, and internally consistent layouts that fit your typography perfectly.
+Now that you've learned to set up frames for responsive web design, in the next lesson you're going to match a typographic system to fit the layout grids perfectly. This process is the holy grail which will let you design clean, well-ordered, and internally consistent layouts that fit your typography perfectly.
