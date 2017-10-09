@@ -1,4 +1,5 @@
 ---
+id: 015
 layout: post
 title: 'Layout Grids: Fixed Width'
 date: '2017-01-01 13:37:11 -0700'
@@ -9,9 +10,9 @@ tags:
   - responsive web design
 ---
 
-In the [last exercise](LINKME), you set up a fluid width grid. That Type of grid will stretch and shrink in proportion to the different device widths that view it. That may work fine for certain cases like web apps, but you'll want to use a fixed width grid for text-heavy designs like blogs and content sites.
+In the [last exercise](LINKME), you set up a fluid width layout grid on a mobile frame. That type of grid will stretch and shrink in proportion to the different device widths that view it. That may work fine for certain cases like web apps where your goal is to maximize real estate, but you'll want to use a fixed width grid for text-heavy designs like blogs and content sites.
 
-When designing for written content, you can greatly enhance readability by using a [sensible typographic measure](LINKME), or line length. A fixed width grid will allow you to control for optimal line length much easier than with a fluid width grid.
+When designing for written content, you can greatly enhance readability by using a [sensible typographic measure](LINKME), or line length. As a reminder, the optimal line length you're going for is 45-75 characters. A fixed width grid will allow you to control for that line length much easier than with a fluid width grid.
 
 ### Fixed Grids Are Tied to Screen Widths
 

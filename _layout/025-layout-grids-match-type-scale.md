@@ -1,4 +1,5 @@
 ---
+id: 025
 layout: post
 title:  "Layout Grids: Matching Your Type Scale"
 date:   2017-01-01 13:37:11 -0700
@@ -39,4 +40,6 @@ Can you tell which of the following layouts uses a consistent typographic and la
 
 !["Example layout"](/images/layout-grids-match-type-scale-02.png)
 
-3. Make sure you snap to the grid, and use consistent spacing between elements. Watch the video to see how it's done.
+3. When drawing rectangles, make sure you snap them to the columns and rows of your layout grid. If snapping doesn't happen as you'd expect, try zooming in closer. Watch the video to see how it's done.
+
+When you're finished, hang on to this file. You're going to use it in the next exercise.
