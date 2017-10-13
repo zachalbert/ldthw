@@ -34,10 +34,10 @@ In this exercise, you're going to start by adjusting your layout grid to work fo
 | Type | Stretch |
 | Columns | 12 |
 | Width | Auto |
-| Gutter | 24 |
-| Margin | 12 |
+| Gutter | 24* |
+| Margin | 12* |
 
-*For those of you familiar with grid systems, you may notice that this roughly conforms to an 8pt grid system, which is one popular increment to base a grid system on. It isn't the only way, but is a great starting place for beginners. If you've never heard of 8pt grid systems, I would suggest [googling it](https://www.google.com/search?q=8+pt+grid) to learn more.*
+*Wondering where 24 and 12 came from? Your gutter width should match the line height of your paragraph text, which will allow your typography to perfectly match the structure of your layout. Margins for fluid grids are typically half the width of the gutter. In this case, you're going to be designing for the popular 8pt grid system, which is a great place to start for beginners, since screen widths are based on multiples of 8. 24 is a multiple of 8 too, and makes many things much easier. It will become increasingly clear why this is a powerful number to start with, so bear with me for now. However, know that 24 is essentially arbitrary, and you can use different layout settings if you prefer. If you learn more, I would suggest [googling it](https://www.google.com/search?q=8+pt+grid).*
 
 4. You should now see 12 skinny columns in your frame, with 24px wide gutters.
 5. Anywhere in the frame, draw a 100px high rectangle that spans 8 columns (beginning from the left side of column #3, and ending on the right side of column #10). You may need to zoom up to ensure your rectangle matches your column widths exactly.
