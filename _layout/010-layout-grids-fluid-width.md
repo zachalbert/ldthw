@@ -26,7 +26,7 @@ In this exercise, you're going to start by adjusting your layout grid to work fo
 ## Exercise
 
 1. Start by deleting the rectangles you drew in the last exercise. Also ensure that the frame size matches the size of your mobile device. If you don't see your mobile device listed under the frame presets, you can google "screen resolution for NAME_OF_YOUR_DEVICE".
-2. The first thing you're going to do is adjust the number of columns to 12. With the mobile frame selected, click the icon to the left of the layout grid you created in the last exercise to open the options dialog. If you can't see the grid on your frame, make sure it's visible: `View > Show Layout Grid`.
+2. The first thing you're going to do is adjust the number of columns to 12. With the mobile frame selected, click the icon to the left of the layout grid you created in the last exercise to open the options dialog. If you can't see the grid on your frame, make sure it's <span data-keyCombo="show-hide-grid">visible</span>.
 3. In the layout grid options dialog, use the following settings.
 
 | Setting | Value |
@@ -44,7 +44,7 @@ In this exercise, you're going to start by adjusting your layout grid to work fo
 ![8 column rectangle](/images/layout-grids-fluid-width-01.png)
 6. With the rectangle selected, look for the "Constraints" section in the inspector on the right. Select "Left & Right" from the first dropdown, and "Top & Bottom" from the second.
 7. This is just a brief introduction to the power of constraints. You're going to learn much more about constraints in future lessons. As a quick introduction however, you can now see that the rectangle you just drew will follow your layout grid perfectly, no matter the size of your frame. Test this by resizing your frame horizontally and vertically. Notice how the rectangle is always 8 columns wide? This mimics how layouts are implemented in code.
-8. Revert your frame back to its original size. You can either go to `Edit > Undo`, or select the frame and pick the correct size preset from the inspector.
+8. Revert your frame back to its original size. You can either hit <span data-keyCombo="undo">undo</span>, or select the frame and pick the correct size preset from the inspector.
 
 This frame and layout grid not only works across many different mobile sizes, but it will also work perfectly for a fluid width layout at any screen size. If your goal is to make a desktop-sized app with a fluid layout, all you need to do is resize your frame to 1024px wide.
 

@@ -39,9 +39,9 @@ Screen Width                                              | Layout Dimensions   
 
 In this exercise, you're going to learn how to set up additional frames for a responsive web design project.
 
-1. In the same document you've been working in, select the frame tool.
+1. In the same document you've been working in, select the <span data-keyCombo="frame">frame tool</span>.
 2. In the design panel on the right, open the "Tablet" presets, and select the one that is 768px wide.
-3. You should see a tablet-sized frame. Now, select the frame tool again.
+3. You should see a tablet-sized frame. Now, select the <span data-keyCombo="frame">frame tool</span> again.
 4. Create a third frame, this time using the desktop preset (1024px).
 5. Finally, create a fourth frame using the desktop HD preset (1440px). You should now have 4 progressively larger frames, but only the mobile sized frame should have a layout grid so far.
 6. Now, select your tablet frame. You're going to add a *fixed* layout grid to your tablet frame. Add a layout grid, and use the following settings by clicking the icon to the left of the new layout grid. Make sure to adjust the settings in this order, since some features are locked with the default settings.
