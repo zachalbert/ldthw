@@ -8,10 +8,19 @@ table {
   border-width: 1px 0 0 1px;
 }
 
-td {
+td, th {
   padding: 1em;
+}
+
+th {
+  font-weight: bold;
 }
 
 img {
   max-width: 100%;
+}
+
+span[data-keyCombo] {
+  cursor: pointer;
+  color: blue;
 }
