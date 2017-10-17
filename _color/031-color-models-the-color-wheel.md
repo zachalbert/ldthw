@@ -6,3 +6,8 @@ tags:
 - gestalt
 - color harmonies
 ---
+
+<!--more-->
+## Exercise
+
+1. Draw 12 circles in a big circle. Draw pure colors, increasing the hue value by 30° each time.
