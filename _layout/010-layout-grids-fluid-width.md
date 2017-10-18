@@ -8,7 +8,7 @@ tags:
 - layout
 - responsive web design
 ---
-In this exercise, you're going to adjust the layout grid in the frame you created in the [last exercise](LINKME) to work with popular twelve column grid systems. You'll be loosely modeling your design file after the grid system used in the most ubiquitous framework, [Bootstrap](https://getbootstrap.com/), which will increase the likelihood a software developer can implement your design with ease.
+In this exercise, you're going to adjust the layout grid in the frame you created in the [last exercise]({{ site.baseurl }}{% link _layout/005-layout-grids-overview.md %}) to work with popular twelve column grid systems. You'll be loosely modeling your design file after the grid system used in the most ubiquitous framework, [Bootstrap](https://getbootstrap.com/), which will increase the likelihood a software developer can implement your design with ease.
 
 ### Fixed vs Fluid
 

@@ -10,7 +10,7 @@ tags:
   - responsive web design
 ---
 
-In the [last exercise](LINKME), you set up a fluid width layout grid on a mobile frame. That type of grid will stretch and shrink in proportion to the different device widths that view it. That may work fine for certain cases like fluid width web apps or small mobile screens, but you'll want to use a fixed width grid for text-heavy designs like blogs and content sites.
+In the [last exercise]({{ site.baseurl }}{% link _layout/010-layout-grids-fluid-width.md %}), you set up a fluid width layout grid on a mobile frame. That type of grid will stretch and shrink in proportion to the different device widths that view it. That may work fine for certain cases like fluid width web apps or small mobile screens, but you'll want to use a fixed width grid for text-heavy designs like blogs and content sites.
 
 When designing for written content, you can greatly enhance readability by using a [sensible typographic measure](LINKME), or line length. As a reminder, the line length rule of thumb is 45-75 characters. A fixed width grid will allow you to control for that line length much easier than with a fluid width grid.
 
@@ -46,6 +46,7 @@ In this exercise, you're going to learn how to set up additional frames for a re
 5. Finally, create a fourth frame using the desktop HD preset (1440px). You should now have 4 progressively larger frames, but only the mobile sized frame should have a layout grid so far.
 6. Now, select your tablet frame. You're going to add a *fixed* layout grid to your tablet frame. Add a layout grid, and use the following settings by clicking the icon to the left of the new layout grid. Make sure to adjust the settings in this order, since some features are locked with the default settings.
 
+| Grid | Columns |
 | Type | Center |
 | Columns | 12 |
 | Width | 38 |
@@ -55,6 +56,7 @@ In this exercise, you're going to learn how to set up additional frames for a re
 9. Test that it works by making the frame wider. The grid should stay centered without getting any wider or narrower. Reset your frame width to 768px once you're sure the grid is set up correctly.
 10. Add a layout grid to your desktop frame, and use the follow settings like you did for the tablet frame.
 
+| Grid | Columns |
 | Type | Center |
 | Columns | 12 |
 | Width | 58 |
@@ -63,6 +65,7 @@ In this exercise, you're going to learn how to set up additional frames for a re
 
 11. And finally, use these settings for your desktop HD frame:
 
+| Grid | Columns |
 | Type | Center |
 | Columns | 12 |
 | Width | 73 |
