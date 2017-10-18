@@ -7,7 +7,7 @@ tags:
 - grids
 - layout
 ---
-In the last exercise, you set up 4 frames for a responsive web design project using a mixture of fluid and fixed width layout grids. Now, you're going to add a new layout grid of horizontal rows which will make it easier to control the vertical space between design elements. Use the same design file that you set up in the [last exercise](LINKME TO FIXED GRID LESSON).
+In the last exercise, you set up 4 frames for a responsive web design project using a mixture of fluid and fixed width layout grids. Now, you're going to add a new layout grid of horizontal rows which will make it easier to control the vertical space between design elements. Use the same design file that you set up in the [last exercise]({{ site.baseurl }}{% link _layout/015-layout-grids-fixed-width.md %}).
 
 The layout grid you're going to use in this exercise will use proportionally similar measurements as the grids you've already created. This makes it dead simple to enforce consistent spacing everywhere, which will create a remarkably stable aesthetic in your layouts.
 
@@ -17,7 +17,7 @@ The layout grid you're going to use in this exercise will use proportionally sim
 1. Open the design file you created in the last exercise, and select your mobile frame.
 2. Click the `+` icon to add a new layout grid. You should have 2 now.
 3. Leave the 12 column grid in place, and open the settings dialog for the new layout grid you just added.
-4. Switch from `Columns` to `Rows`.
+4. Switch from `Grid` to `Rows` in the segmented button at the top.
 5. Set the following options, in this order:
 
 | Type | Top |

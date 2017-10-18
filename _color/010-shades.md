@@ -5,7 +5,7 @@ date:   2017-01-01 13:37:11 -0700
 tags:
 - color
 ---
-In the [last exercise](LINKME), you created 4 tints from the base color of `#407A80`. You're now going to do the same thing with shades.
+In the [last exercise]({{ site.baseurl }}{% link _color/005-tints.md %}), you created 4 tints from the base color of `#407A80`. You're now going to do the same thing with shades.
 
 When using HSB mode, mixing in tints requires you to adjust both saturation and brightness simultaneously, but mixing in black only requires you to reduce the brightness. While simply reducing the brightness will work to create shaded variations, you can take it a step farther and either increase saturation simultaneously to create richer darks, or decrease saturation to create softer darks.
 

@@ -5,7 +5,7 @@ date:   2017-01-01 13:37:11 -0700
 tags:
 - color
 ---
-In the [last exercise](LINKME), you created 4 shaded variations of a base color.
+In the [last exercise]({{ site.baseurl }}{% link _color/010-shades.md %}), you created 4 shaded variations of a base color.
 
 In this exercise, you're going to create 4 tonal variations. Tones are created when gray is added to a color, or put another way, when the color is desaturated.
 
