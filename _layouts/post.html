@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% if page.video %}
+<video width="100%" controls>
+  <source src="{{ site.videourl }}{{ page.video }}" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+{% endif %}
+<h1>{{ page.title }}</h1>
+
+{{ content }}

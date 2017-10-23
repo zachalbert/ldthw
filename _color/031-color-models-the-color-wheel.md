@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Color Models 4: the Color Wheel"
+video: color/color-models-04-the-color-wheel.mp4
 date:   2017-01-01 13:37:11 -0700
 tags:
 - gestalt
