@@ -6,3 +6,7 @@ tags:
 - gestalt
 - color harmonies
 ---
+<!--more-->
+## Exercises
+
+1.
