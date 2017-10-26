@@ -2,6 +2,7 @@
 id: 004
 layout: post
 title:  "Color Models 1: Using HSB Mode"
+video: color/color-models-01-using-hsb.mp4
 date:   2017-01-01 13:37:11 -0700
 tags:
 - color

@@ -18,6 +18,6 @@ tags:
 5. There! The red / cyan combination represents a complementary color palette. You are going to follow the same procedure for the other colors now.
 6. Select the green, and create a copy on the right. This time, the green is not a pure green, so you'll need to be more clever about how you figure out its complement. Open the fill color options for the second green circle you created, and add 180 to the hue. You can either do this the old-fashioned way (with a calculator!), or you can use the built-in calculator. In the hue field, after "91", type "+180" and hit `return`. Figma should do the math for you, resulting in a hue of 271.
 7. Next, select the blue and create a copy. While you can follow a similar procedure, this time you'll need to *subtract* 180 from the hue. If you added 180, that would result in a number greater than 360°, which would get capped by Figma at 360.
-8. Finally, follow the same procedure for the color you picked on your own. If the hue value of your color is less than 180, then you should add 180. If it's greater than 180, then you should subtract.
+8. Finally, follow the same procedure for the fourth color you picked. If the hue value of your color is less than 180, then you should add 180. If it's greater than 180, then you should subtract.
 
-You now have a variety of complementary color palettes. While simple and bold, you're going to follow a similar procedure to arrive at other harmonies in the next lessons.
+Complementary color palettes are pretty easy to put together. You're going to follow a similar procedure to arrive at other, more complex harmonies in the next lessons.

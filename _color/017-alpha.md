@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Color Variants: The Alpha Channel"
+video: color/color-variants-04-the-alpha-channel.mp4
 date:   2017-01-01 13:37:11 -0700
 tags:
 - color

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Color Variants: Creating Tones"
+video: color/color-variants-03-creating-tones.mp4
 date:   2017-01-01 13:37:11 -0700
 tags:
 - color

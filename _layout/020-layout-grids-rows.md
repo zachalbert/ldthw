@@ -2,6 +2,7 @@
 id: 020
 layout: post
 title:  "Layout Grids: Rows"
+video: layout/layout-04-rows.mp4
 date:   2017-01-01 13:37:11 -0700
 tags:
 - grids

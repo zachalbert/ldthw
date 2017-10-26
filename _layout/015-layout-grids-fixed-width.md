@@ -1,8 +1,9 @@
 ---
 id: 015
 layout: post
-title: 'Layout Grids: Fixed Width'
-date: '2017-01-01 13:37:11 -0700'
+title: "Layout Grids: Fixed Width"
+video: layout/layout-03-fixed-width.mp4
+date: "2017-01-01 13:37:11 -0700"
 tags:
   - grids
   - layout

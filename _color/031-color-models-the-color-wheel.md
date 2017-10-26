@@ -11,9 +11,13 @@ In this exercise, you're going to be creating a color wheel from scratch. The co
 
 In the [last exercise]({{ site.baseurl }}{% link _color/030-color-models-rgb-vs-ryb.md %}), we discussed 2 types of color wheels. From here on out, you're going to be using the `RGB` version of the wheel.
 
-### A note on the numbers
+### A Note About Numbers
 
 If you're not a numbers person, bear with me. It is possible to get good at manipulating color without understanding the underlying numbers, but it's borderline impossible without real time feedback from a teacher. Make an effort to understand the numbers, and you'll be rewarded with a sense of control over how to achieve the exact effect you're looking for.
+
+### Warm And cool
+
+You may have heard the terms "warm" or "cool" to describe color. Warm refers to reds, oranges, and yellows, whereas cool refers to greens, blues, and violets. The color wheel makes it easy to see this. While not divided perfectly in half, you can easily see that all warm colors are grouped together on one side, and all cool colors are grouped together on the other side. This fact will be very useful when you start to create your own color harmonies.
 
 <!--more-->
 ## Exercise
