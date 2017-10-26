@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Color Harmonies: Overview"
+video: color/color-harmonies-overview.mp4
 date:   2017-01-01 13:37:11 -0700
 tags:
 - gestalt
@@ -17,9 +18,17 @@ Still though, the definition of harmonious is in the ear of the beholder. If the
 
 In the same way, you can combine different colors to create harmonious or disharmonious "chords." You will be learning the underlying chord types that can be achieved, but keep in mind that these rules are fluid and may change as the cultural context changes. The lesson on [color psychology]({{ site.baseurl }}{% link _color/002-color-psychology.md %}) delves into that concept in greater depth.
 
+### Color Dominance
+
+As you learn about using the rules of color harmony to create pleasing color palettes, remember that a lot depends on which color you choose to let dominate the palette. A single triadic palette can look wildly different, depending on how much of each color is used. You will learn about this idea in greater depth in the lesson about the [contrast of extent]({{ site.baseurl }}{% link _color/100-contrast-of-extent.md %}). For now, keep this principle in mind as you progress through the following lessons.
+
 ### Improving Your Skills
 
-To improve your mastery over color harmony, you must do two things. First, you need to *observe* color combinations in the wild, and *analyze* what makes them harmonious or disharmonious. Continue adding to the inspiration board you started in the [color overview lesson]({{ site.baseurl }}{% link _color/001-color-overview.md %}). As you build this library, add tags for the specific color harmonies you learn about. The goal is to be able to notice those harmonies in the wild, and quickly assess whether they're used successfully or not.
+In the same way that learning to play individual notes on a violin will not instantly make you a virtuoso, mastery over color will take years of study and practice. The following lessons will give you a solid theoretical foundation to base that continued practice on.
+
+To improve your skill with color, you must do two things.
+
+First, you need to *observe* color combinations in the wild, and *analyze* what makes them harmonious or disharmonious. Continue adding to the inspiration board you started in the [color overview lesson]({{ site.baseurl }}{% link _color/001-color-overview.md %}). As you build this library, add tags for the specific color harmonies you learn about. The goal is to be able to notice those harmonies in the wild, quickly assess whether they're used successfully or not, and how you'd handle it differently to make it more successful.
 
 The second thing you need to do is practice *creating* harmonious color combinations. You will do that in the next series of lessons.
 

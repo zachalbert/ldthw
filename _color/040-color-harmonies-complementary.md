@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Color Harmonies: Complementary"
+video: color/color-harmonies-complementary.mp4
 date:   2017-01-01 13:37:11 -0700
 tags:
 - gestalt
