@@ -27,6 +27,9 @@ github_username:  jekyll
 
 # Content
 collections:
+  basics        :
+    output      : true
+    permalink   : /:collection/:title/
   color         :
     output      : true
     permalink   : /:collection/:title/
@@ -56,6 +59,9 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

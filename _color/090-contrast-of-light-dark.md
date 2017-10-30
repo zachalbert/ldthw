@@ -6,3 +6,6 @@ tags:
 - gestalt
 - color harmonies
 ---
+* Black & White are on both ends of the light / dark neutral spectrum
+* For colors, show desaturated + bright white, saturated + dark violet
+* 

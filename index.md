@@ -4,12 +4,22 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+# Basics
+<ol>
+{% for item in site.basics %}
+  <li>
+    <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+    <p class="excerpt">{{ item.excerpt }}</p>
+  </li>
+{% endfor %}
+</ol>
+
 # Gestalt
 <ol>
 {% for item in site.gestalt %}
   <li>
     <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-    <p>{{ item.excerpt }}</p>
+    <p class="excerpt">{{ item.excerpt }}</p>
   </li>
 {% endfor %}
 </ol>
@@ -19,7 +29,7 @@ layout: home
 {% for item in site.layout %}
   <li>
     <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-    <p>{{ item.excerpt }}</p>
+    <p class="excerpt">{{ item.excerpt }}</p>
   </li>
 {% endfor %}
 </ol>
@@ -29,7 +39,7 @@ layout: home
 {% for item in site.color %}
   <li>
     <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-    <p>{{ item.excerpt }}</p>
+    <p class="excerpt">{{ item.excerpt }}</p>
   </li>
 {% endfor %}
 </ol>

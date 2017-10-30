@@ -6,3 +6,11 @@ tags:
 - gestalt
 - color harmonies
 ---
+* Cool:
+  * Green/blue - blue/violet
+  * Communicates distance, airiness, shadow, slow, sedative, coldness
+  * Recedes in depth, appearing "behind"
+* Warm:
+  * Red/violet - Green/yellow
+  * Communicates nearness, warmth, energy, sunlight
+  * Comes forward in depth, appearing in front

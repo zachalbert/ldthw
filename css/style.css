@@ -24,3 +24,10 @@ span[data-keyCombo] {
   cursor: pointer;
   color: blue;
 }
+
+.excerpt {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 300px;
+}
