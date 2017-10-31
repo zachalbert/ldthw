@@ -33,4 +33,13 @@ The following exercise will set up your design document for the next seven lesso
 
 1. In a new design document, create an 800x600 <span data-keyCombo="frame">frame</span>.
 2. <span data-keyCombo="duplicate">Duplicate</span> that frame 6 times, for a total of of 7 frames.
-3. <span data-keyCombo="rename">Rename</span> each frame
+3. <span data-keyCombo="rename">Rename</span> each frame the following:
+  1. complementary-contrast
+  2. hue-contrast
+  3. saturation-contrast
+  4. light-dark-contrast
+  5. warm-cool-contrast
+  6. extension-contrast
+  7. simultaneous-contrast
+
+When you've done that, move on to the next lesson.
