@@ -6,4 +6,5 @@ tags:
 - gestalt
 - color harmonies
 ---
-asfd
+* We see depth on 2D screens, implying that some things are in front, and some behind
+* Perceptual hierarchy is the order in which we notice things, and is very important for visual design

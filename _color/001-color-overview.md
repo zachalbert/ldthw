@@ -10,6 +10,7 @@ tags:
 * Why color is hard. Colors affect and are affected by their surroundings.
 * How to get better. How to develop your eye.
 * Different ways of picking color. #hex is useful for any RGB based color, because it's easy to copy/paste.
+* Brief overview of light as wave, long medium and short cones, and the idea of primaries.
 
 ### Developing Your Eye
 In this exercise, you're going to start the process of developing your eye for color. This is a very personal, subjective exercise. Subjectivity is the nature of color. People experience color in unique and unexpected ways, so it's important that you balance the study of color theory, with structured observation and practice. When your eye is fully developed, you'll be able to quickly identify which color combinations are successful, which are not, and what you need to do to make them more successful.

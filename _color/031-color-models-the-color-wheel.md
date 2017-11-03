@@ -25,7 +25,7 @@ You may have heard the terms "warm" or "cool" to describe color. Warm refers to 
 1. In a new design document, draw a 100px x 100px circle. Give it a pure red fill color, or `#FF0000`.
 2. Next, `alt/option` drag a copy of the circle straight down, leaving a 300px gap. Hold the `shift` key while dragging to constrain it to the same axis.
 3. Now <span data-keyCombo="group">group</span> your two circles so that you can move them together.
-4. With your group selected, <span data-keyCombo="duplicate">duplicate</span> it. In the inspector, in the rotation type-in, either type `30` to rotate the group by 30°, or hit the up key 3 times while holding `shift`.
+4. With your group selected, <span data-keyCombo="duplicate">duplicate</span> it. In the design panel on the right, find the rotation input. Either type `30` to rotate the group by 30°, or hit the up key 3 times while holding `shift`.
 5. Repeat this procedure 4 more times: duplicate, then increase the rotation by 30°. You're done when the 100px circles go all the way around.
 <!--SKETCH: has the rotate copies tool-->
 6. Select all 12 circles, and ungroup them. We're going to refer to circles as hours on a clock for ease of explanation from here on out.

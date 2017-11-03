@@ -13,6 +13,8 @@ All the things you need to learn to do the exercises. You can skip this if you a
   - [ ] Shift drawing a shape
   - [ ] Alt drawing a shape
   - [ ] Shift + alt drawing a shape
+  - [ ] Holding shift to select / deselect objects
+  - [ ] Drawing boxes around objects to select them
   - [ ] Shift-dragging
   - [ ] Resizing w/ handles
   - [ ] Shift Resizing
