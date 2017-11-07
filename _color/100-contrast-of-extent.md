@@ -34,6 +34,6 @@ Munsell + Itten came up with a thing.
 5. Duplicate the red rectangle, and reduce the duplicate's width by half so that it is now 400x200. Give this duplicate a fill of `#00FFFF`. The top row should now be half cyan, half red.
 6. Next, duplicate the magenta rectangle in the middle row. Reduce the duplicate's width to <sup>1</sup>/<sub>3</sub> of its width, or about 266x200. Give the duplicate a fill color of `#00FF00`.
 7. In the final row, create a duplicate of the blue rectangle and reduce its width to <sup>1</sup>/<sub>4</sub>, or 200x200. Give the new rectangle a fill color of `#FFFF00`.
+8. These proportions roughly conform to those mentioned by Itten, but don't overthink the proportions. They are loose guidelines that you can use to make it easier to balance the color in a given composition.
 
-
-This frame is a rough analog of Itten's proportions, keeping in mind that these proportions are somewhat arbitrary and can and should be broken when there's a need to do so. In the next and final lesson on contrasts, you're going to learn about simultaneous contrast.
+Keep in mind that these proportions are mostly arbitrary. They can and should be broken when there's a need to do so. In the next and final lesson on contrasts, you're going to learn about simultaneous contrast.
