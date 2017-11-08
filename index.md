@@ -9,7 +9,7 @@ layout: home
 {% for item in site.basics %}
   <li>
     <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-    <p class="excerpt">{{ item.excerpt }}</p>
+    
   </li>
 {% endfor %}
 </ol>
@@ -19,7 +19,7 @@ layout: home
 {% for item in site.gestalt %}
   <li>
     <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-    <p class="excerpt">{{ item.excerpt }}</p>
+    
   </li>
 {% endfor %}
 </ol>
@@ -29,7 +29,7 @@ layout: home
 {% for item in site.layout %}
   <li>
     <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-    <p class="excerpt">{{ item.excerpt }}</p>
+    
   </li>
 {% endfor %}
 </ol>
@@ -39,7 +39,7 @@ layout: home
 {% for item in site.color %}
   <li>
     <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-    <p class="excerpt">{{ item.excerpt }}</p>
+    
   </li>
 {% endfor %}
 </ol>
