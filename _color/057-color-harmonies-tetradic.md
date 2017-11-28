@@ -21,6 +21,6 @@ tags:
 7. For the second row of green, again start with 3 copies.
 8. You can add 180 to the second, 60 to the third, and 240 to the fourth. However, you can also "flip" the rectangle by *subtracting* 60 from the third circle to get the color 2 steps away on the opposite of the base color. Again, the fourth should be a complement of the third. Both methods are equally valid tetradic harmonies.
 9. For the row with blue, follow the same procedure. Choose whether you want the second pair of complements to start by adding or subtracting 60 from the base blue.
-10. Finally, create a tetradic harmony with the color of your choice in the fourth row. For bonus points, create a fifth row where you show both variations of the tetradic harmony.
+10. Finally, create a tetradic harmony with the color of your choice in the fourth row.
 
 In the next row, you're going to learn about square harmonies, which are a slight variation of tetradic harmonies.

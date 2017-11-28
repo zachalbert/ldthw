@@ -20,8 +20,8 @@ tags:
 5. With the third red circle, increase the hue by another 30° to make it 60°. You now have an analogous palette from the warm side of the color wheel (red-yellow).
 6. Next, select the green circle on the next row. Create 2 copies on the right. For this analogous palette, you're going to move towards the warm side of the wheel also, however this time you'll need to reduce the hue value to move towards the red-yellow side.
 7. With the first green copy, decrease the hue value by about 30°. With the second green copy, decrease the hue value by about 60°. The result will be a warm, earth-tone palette.
-8. In the third row, select the blue circle and create 2 copies again. This time, you're going to select analogous steps *on both sides* to keep the palette centered on the blue color.
-9. With the second blue circle, *reduce* the hue by about 30°, and for the third blue circle, *increase* the hue by 30°. This should give you a cool, calming blue palette centered on your starting color.
+8. In the third row, select the blue circle and create 2 copies again.
+9. With the second blue circle, *reduce* the hue by about 30°, and for the third blue circle, *increase* the hue by 30°. This should give you a cool, calming blue palette based on your starting color.
 10. Finally, with the last color circle, come up with an analogous palette of your choice. Try to have a specific direction in mind (e.g. moving the palette towards the warm or cool sides of the color wheel).
 
 Analogous palettes are also pretty easy to generate, and create a far less energetic feel than a complementary palette. You'll continue in the next lesson with the split complementary harmony.

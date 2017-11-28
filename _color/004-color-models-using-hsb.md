@@ -10,7 +10,17 @@ tags:
 * Why HSB is better
 * How you're going to learn more about it later, but short term, just f'in use it.
 
-This is going to be an extremely short exercise to demonstrate the benefits of using HSB mode.
+On a digital display, there are *millions* of possible colors. The labels we typically use to talk about colors are grossly inadequate from a design perspective. Even some of the more specific labels you might see at a paint store like "forest green" could refer to a thousands of possible greens.
+
+Using these color labels is like telling the postal service you live "somewhere in the lower east side of Manhattan" and hoping they send your mail to the right location. You *could* get more specific and provide GPS coordinates to ensure accuracy, but it would also be impossible for a human to decipher without an electronic tool. A street address, however, is both accurate and easy for a human to understand with minimal assistance.
+
+### HSB is Like a Street address
+
+Digital color uses what is called the `RGB` color space, which is an acronym for **red**, **green**, and **blue**. `RGB` notation looks like this: `forest green = rgba(0, 117, 31, 100)`. While it is very accurate, it's not very human readable. `RGB` notation is like a set of GPS coordinates.
+
+On the other hand, `HSB` mode also points to an `RGB` address, but is much easier to understand for humans. The components of `HSB` are **hue**, **saturation**, and **brightness**. It's like providing a street address instead of GPS coordinates.
+
+### Changing Modes
 
 <!--more-->
 ## Exercises

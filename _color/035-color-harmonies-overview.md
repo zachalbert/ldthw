@@ -50,8 +50,8 @@ The second thing you need to do is practice *creating* harmonious color combinat
   * Frame 2: **analogous**
   * Frame 3: **split-complementary**
   * Frame 4: **triadic**
-  * Frame 4: **tetradic**
-  * Frame 5: **square**
-  * Frame 6: **hexadic**
+  * Frame 5: **tetradic**
+  * Frame 6: **square**
+  * Frame 7: **hexadic**
 
 You're now set up for the next several lessons. Keep this design file handy.
