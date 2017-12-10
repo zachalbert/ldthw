@@ -8,12 +8,15 @@ tags:
 ---
 In the last few exercises, you explored creating tints, shades, and tones. In this exercise, we're going to talk about the alpha channel, which controls the opacity of a color.
 
-Opacity can be used in a variety of circumstances. It is commonly for overlay effects, such as drop shadows or adding text or icons on top of a chaotic image. Even if the goal is a subtle gray drop shadow, using a pure gray color will look different depending on the background it's placed on. Using pure whites or blacks plus a low alpha value will allow you to achieve the same effect in a more consistent and flexible way.
+Opacity can be used in a variety of circumstances. It is commonly for overlay effects, such as drop shadows or adding text or icons on top of an image with a lot of color or value variance.
 
-In this exercise, you're going to create an icon color that appears consistent no matter what background it's placed on.
+### Use alpha for shadow effects
+
+A common use case for the alpha channel in UI design is for drop shadows, which communicate depth. A gray drop shadow is usually inferior to a very dark, saturated black with a low alpha value. The dark, transparent shadow is far more versatile on a variety of different backgrounds, which makes the design more flexible.
 
 <!--more-->
 ## Exercise
+In this exercise, you're going to create an icon color that appears consistent no matter what background it's placed on. This illustrates how alpha can be used to create a more flexible design system.
 
 1. In a new design document, draw a rectangle that is roughly 500 x 1000. Create a second copy of the rectangle just to the right of the first.
 2. Make the fill color of the first rectangle `#CFCFCF`. The second rectangle should have a fill of `#564D66`.

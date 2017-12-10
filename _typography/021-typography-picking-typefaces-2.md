@@ -19,6 +19,6 @@ date:   2017-01-01 13:37:11 -0700
   * Leave your design document open on your computer so it's the first thing you see when you log in, and sleep on it. Sometimes a little bit of distance can make a difficult decision much easier.
   * Get critique from another designer, or failing that, ask non-designers for their opinions. Remember to [take feedback well]({{ site.baseurl }}{% link _basics/030-critique-taking-feedback.md %}).
   * Research the history of all the typefaces in question. Sometimes, the history of a typeface is enough to sway you one way or the other.
-  * Once you've done all those things, flip a coin and remember you can change your decision later. This might seem like silly advice, but if you've gone through all the previous steps, then you're likely overanalyzing. Make a random choice so you can maintain your momentum.
+  * Once you've done all those things, flip a coin and remember you can change your decision later. This might seem like silly advice, but if you've gone through all the previous steps and still can't decide, then you're likely overanalyzing. Make a random choice so you can maintain your momentum.
 
-Once you've narrowed it down to a pair of fonts, you're ready to move on to the next lesson. Congratulations — the hard part is over! Hang on to this design file.
+Once you've narrowed it down to a pair of fonts, you're ready to move on to the next lesson. Congratulations — the hard part is over! Hang on to this design file so you can use it in the next lesson.

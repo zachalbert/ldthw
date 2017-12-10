@@ -9,13 +9,15 @@ tags:
 ---
 Color psychology, as it's commonly described, is the belief that the presence of certain colors in our environment will affect our behavior. While reliable evidence does exist that color has an effect, it's a subtle one that is specific to an individual.
 
-As it relates to brands, the Gestalt Law of Past Experience gives us an indication of the effect and extent of color psychology. Understanding this law will allow you to use this principle to your advantage in your design work. This law says that we tend to group our perceptions with similar things we've experienced in the past.
+As it relates to brands, the [Gestalt Law of Past Experience]({{ site.baseurl }}{% link _gestalt/050-gestalt-law-past-experience.md %}) gives us a clue about how color psychology works. This law says that we tend to group our perceptions with similar things we've experienced in the past.
 
-This gives us a sense of expectation about new experiences so that we only tend to notice brands that break the mold. Using neon pink and yellow for a bank would look odd to most people, but nobody would notice if that same pink & yellow combo was used for a snow cone shack.
+This gives us a sense of expectation about new experiences, so that we only tend to notice brands that break patterns. Using neon pink and yellow for a bank would look odd to most people, but nobody would notice if that same pink & yellow combo was used for a snow cone shack.
 
-Popular descriptions of color psychology usually break down when they claim that specific colors have the ability to evoke a specific emotion in a person. Statements such as “red equals passion” or “blue means stability” may evoke emotions, but those emotions will be different for each person depending on their preferences, cultural background, religion, social stigma, and a host of other things.
+Popular descriptions of color psychology fall apart when they claim that specific colors have the ability to evoke a specific emotion in a person. Statements such as “red equals passion” or “blue means stability” *may* evoke emotions, but those emotions will be subtle, and different for each person depending on their preferences, cultural background, religion, social mores, and a host of other factors.
 
-Due to the shaky evidence about specific emotion, pay more attention to the way people group similar brands together. The exercise is going to ask you to think about how brands represent themselves through color, and to extract patterns that you can reuse.
+### Primary Takeaway
+
+Rather than thinking about color psychology as a form of mind control, think of it as a way of calling to mind past experiences. Pay special attention to the way brands express themselves through color. Understanding those patterns will allow you to use them intelligently.
 
 <!--more-->
 ## Exercises

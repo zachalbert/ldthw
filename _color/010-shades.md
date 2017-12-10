@@ -8,14 +8,13 @@ tags:
 ---
 In the [last exercise]({{ site.baseurl }}{% link _color/005-tints.md %}), you created 4 tints from the base color of `#407A80`. You're now going to do the same thing with shades.
 
-When using HSB mode, mixing in tints requires you to adjust both saturation and brightness simultaneously, but mixing in black only requires you to reduce the brightness. While simply reducing the brightness will work to create shaded variations, you can take it a step farther and either increase saturation simultaneously to create richer darks, or decrease saturation to create softer darks.
+In nature, shadows are very rarely pure black because of the physics of how light scatters through our atmosphere and picks up the quality of the surface it bounces off. The next time you observe an object sitting on a colored surface with strong lighting, try to notice the color in the shadow.
 
-In nature, shadows are very rarely pure black because of the physics of how light scatters through our atmosphere and bounces off surfaces. The next time you observe an object sitting on a colored surface with strong lighting, try to notice the color in the shadow. Creating shadows that feel natural usually means saturating your darker shades with an appropriate hue.
-
-In this exercise, you're just going to create simple shades. For bonus points, try to create both desaturated and saturated versions of your shades to see the effect.
+While a shade is just a hue variant with black mixed in, a natural, rich shadow tone will also usually be more saturated than the base hue. When creating shades, you don't need to restrict yourself *only* to reducing brightness.
 
 <!--more-->
 ## Exercise
+In this exercise, you're just going to create simple shades. For bonus points, try to create both desaturated and saturated versions of your shades to see the effect.
 
 1. In the same design document you created in the last exercise, create a copy of your first circle directly underneath it. Double check that the fill color is `#407A80`.
 2. Create 4 copies of your new base color circle to the right.

@@ -6,16 +6,21 @@ date:   2017-01-01 13:37:11 -0700
 tags:
 - color
 ---
-Creating a color palette is an exploratory process that requires you to look at many variations before settling on a final arrangement. While you will be thinking about which hues go well together, you'll also need to decide on the saturation and brightness of those hues. Creating tints, shades, and tones will help you look at many saturation and brightness permutations of a color.
+Creating a color palette is an exploratory process that requires you to look at many variations before settling on a final arrangement. While you will be thinking about which hues go well together, you'll also need to decide on many other components of the color palette.
 
-| **Tint** | *A tint is a color variant with **white** mixed in.* |
-| **Shade** | *A shade is a color variant with **black** mixed in.* |
-| **Tone** | *A tone is a color variant that has been desaturated to make it more **gray**.* |
+### Tints, Shades, and Tones
 
-This exercise will explore how to create **tints**. When exploring color palettes, you should always look at at least a few tinted variations of a color before settling on a final decision.
+Tints, shades, and tones are three common methods for modifying a single hue. When creating a new color palette, it's common to generate at least a few tint, shade, and tone variants for the core colors in your palette. These variants are usually required later in the design process. For instance, one probably you'll probably run into eventually is trying to use a core brand color for links. It might look vibrant when used for buttons, but washed out when used for text links since text has less "mass." In cases like this, you may have to use a shaded variant to make the text appear optically consistent with other uses of the brand color.
+
+Here's a tint, shade, and tone cheat sheet:
+
+| **Tint** | *A tint is a hue variant with **white** mixed in.* |
+| **Shade** | *A shade is a hue variant with **black** mixed in.* |
+| **Tone** | *A tone is a hue variant that has been desaturated to make it more **gray**.* |
 
 <!--more-->
 ## Exercise
+This exercise will explore how to create **tints**. Shades and tones will be explored in the next lessons.
 
 1. In a new design document, draw a circle of any size and paste this hex value in the fill color: `#407A80`.
 2. Create 4 copies of the circle immediately to the right. If you hold `alt/option` while dragging, you can quickly create several copies. You should now have 5 circles. You're now going to add varying degrees of white to each of the circles.

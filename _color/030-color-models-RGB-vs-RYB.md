@@ -6,18 +6,20 @@ tags:
 - gestalt
 - color harmonies
 ---
-Over the next two lessons, you're going to be learning about the color wheel, an invaluable tool to understand the relationships between colors. You'll do this by creating your own from scratch.
+In this lesson, you're going to lose some cherished beliefs you may still be holding on to from your early years. You'll be creating your own color wheel from scratch, which is invaluable tool to understand the relationships between hues.
 
-Before you start building a color wheel, you have to first decide whether or not you're going to use an additive color wheel, or a subtractive one. They both look similar, but lead to different conclusions.
+During the course of the next two lessons, you'll learn that the most popular theory of color opposites and primary colors only applies in certain situations.
 
 ### A Test of Opposites
 
-Most people are taught about "color opposites" at some point in school (the official term is "color complements"). You've probably heard things like "the opposite of red is green" or "the opposite of blue is orange." What you don't often realize is that while this is true, it's *only* true for subtractive color like paint and ink.
+Most people are taught about "color opposites" at some point in school (the official term is "color complements"). You've probably heard things like "the opposite of red is green" or "the opposite of blue is orange." What you may not realize is that while this is true, it's only true when *mixing* physical color like paint and ink.
 
-With additive color models like `RGB`, the opposite of red is not green, but *cyan*, green's opposite is magenta, and blue's opposite is yellow. If you're paying attention, you might have noticed that these opposites represent the CMY in CMYK.
-
-In future lessons, we'll be discussing complementary colors in greater depth. The quick takeaway is that complementary pairs of colors provide the greatest amount of hue contrast possible, so it's important to know that you're using the right color while for the output medium you're designing for.
+With additive light-based color spaces like `RGB` (which is used in the screen you're reading on right now), the opposite of red is not green, but *cyan*. Green's opposite is magenta, and blue's opposite is yellow. If you're paying attention, you might have noticed that these opposites represent the `CMY` in `CMYK`.
 
 ![RGB vs RYB](/images/color-models-rgb-vs-ryb-01.png)
 
-In the next exercise, you're going to be creating your own `RGB` color wheel, which will help you understand the underlying numbers used in color models, and how pleasing color harmonies are achieved.
+### RYB vs RGB
+
+Use red, yellow, and blue as primaries when mixing paint, and red, green, and blue when working with digital color. In the next exercise, you're going to be creating your own color wheel using `RGB` primaries.
+
+Creating this wheel will give you a greater sense of control over color, and help you understand how to achieve pleasing color harmonies in the `RGB` color space.
