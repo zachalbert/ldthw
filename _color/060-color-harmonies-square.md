@@ -7,10 +7,11 @@ tags:
 - gestalt
 - color harmonies
 ---
+Like [tetradic harmonies]({{ site.baseurl }}{% link _color/057-color-harmonies-tetradic.md %}), a square harmony consists of 4 colors. However, in a square palette, all 4 colors are equally spaced around the color wheel by 90°.
 
 ![Square Color Harmony](/images/color/color-wheel-square.png)
 
-* A square harmony is very similar to the tetradic harmony. Both use 4 colors, but the square harmony uses 2 pairs of complements that are perpendicular to each other. This results in 4 colors that are perfectly spaced around the color wheel, with 2 steps between each part of the palette.
+The square color harmony is very colorful, and provides the greatest amount of hue contrast possible with 4 colors. This is useful when you need to design something energetic but need more color choices than either [complementary]({{ site.baseurl }}{% link _color/040-color-harmonies-complementary.md %}) or [triadic]({{ site.baseurl }}{% link _color/055-color-harmonies-triadic.md %}) palettes will allow.
 
 <!--more-->
 ## Exercises

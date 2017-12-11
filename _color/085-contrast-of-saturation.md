@@ -6,12 +6,23 @@ tags:
 - gestalt
 - color harmonies
 ---
-* Difference between a "pure" color, and one that has been diluted or dulled.
-* Desaturation communicates distance, saturation communicates closeness
-* Fully saturated and desaturated are not often perceived in the natural world.
-* Dark shadows are usually saturated with the color of the surface the shadow is projected onto, since light rays bounce back onto the object
-* Saturation, chroma, etc.
+The contrast of saturation deals with the relative purity between two colors. A fully saturated color will tend to look vibrant and almost artificial, whereas a desaturated color will seem diluted — especially when placed next to saturated colors.
 
+You may have also heard the word "chroma," which is another way to describe saturation in some color systems.
+
+### Distance
+
+In the natural world, objects that are far away appear desaturated, as light has more chance to scatter in the atmosphere between object and viewer.
+
+You can use the effect in your design work. When you are creating something that needs to feel in your face, your color palette should be more saturated. When a calming, natural effect is desired, try something more desaturated. Desaturated, analogous palettes are often used for outdoor brands.
+
+### Shadows
+
+In the natural world, shadows are very rarely pure black. Most often they are actually dark, saturated versions of the colors they are reflecting off. In your design work, when you want to make something appear to be in shadow, try increasing your saturation even before decreasing darkness. It will yield a richer shadow tone than simple decreasing brightness.
+
+Though you can of course combine both, here's an example of contrast of saturation at work.
+
+![Saturated shadows](/images/color/contrast-of-saturation-01.png)
 
 <!--more-->
 ## Exercises
@@ -28,4 +39,4 @@ tags:
 10. Give the top rectangle the fill color of `#9999FF`, and the bottom the color of `#3333FF`.
 11. Something interesting is happening with this frame. The light and dark rectangles seemingly have the opposite effect of the circles on the left. This time, the darker rectangle appears to be "behind," and the lighter rectangle seems to sit on top of the background. Since the two rectangles and background all share the same hue and brightness, which is important. Shadows tend to be more saturated, and highlights tend to be less saturated in the natural world. This creates the effect that the darker rectangle is the same color as the background, but *indented*, whereas the opposite happens for the lighter rectangle. You didn't need to adjust the brightness at all to achieve a rich shadow tone, which is important to remember. In UI design, the perception of depth helps convey meaning and function, and saturation is a way of achieving it without resorting to making everything dark.
 
-In the next lesson, you're going to look at the contrast of light and dark.
+In the next lesson, you're going to look at the contrast of light and dark. Hold on to this file.

@@ -6,24 +6,23 @@ tags:
 - gestalt
 - color harmonies
 ---
-* Contrast of hue: illustrated by undiluted primaries, RGB @ S = 100 & B = 100
-* Contrast of hue is lessened with secondary colors CMY
-* Reduced even further with tertiary colors.
-* Greatest triadic contrast is via RYB / RGB (in digital displays)
-
 Contrast of hue is demonstrated by placing 3 triadic colors next to each other. The effect is strongest with primary colors, weakened with secondary colors, and weakened even further with tertiary colors.
 
-### What Are Primaries?
+### RGB, not RYB
 
-The idea that red, yellow, and blue are primary colors is a misconception. It's true that `RYB` is an effective starting point when mixing colors with opaque paint, but that's where the idea stops being useful.
+The idea that red, yellow, and blue are primary colors is a misconception. It's true that `RYB` are effective primaries when mixing colors with opaque paint, but [it doesn't work with digital color]({{ site.baseurl }}{% link _color/030-color-models-rgb-vs-ryb.md %}).
 
-The very idea of a "primary" color is problematic. In order to keep things practical however, this is a gross oversimplification of how color vision works. The physical structure of your eye contains both rods and cones. There are three types of cones — long, medium, and short — and each type is more sensitive to a particular wavelength of light than the others. These cones *roughly* correlate to red light, green light, and blue light — though there is significant overlap. A primary color is a particular wavelength that activates one cone, while also having the least influence over the other two.
+### Color Vision
 
-That is a simplification of a complex topic involving the physics of light, the biological structure of our eyes, and the neurological processes that light waves into coherent images. However, since digital displays emit light and mix color in an additive fashion, `RGB` is a close approximation of the primary colors in the natural world.
+When discussing the contrast of hue, it's useful to understand how color vision works. In order to keep things practical, this will be a gross oversimplification of how color vision works.
+
+The physical structure of your eye contains both rods and cones. There are three types of cones — long, medium, and short — and each type is more sensitive to a particular wavelength of light than the others. These cones *roughly* correlate to **red** light, **green** light, and **blue** light — though there is significant overlap. A primary color is a particular wavelength that activates one cone, while also having the least influence over the other two. There are three primaries because our eyes contain three cones.
+
+That is a simplification of a complex topic involving the physics of light, the biological structure of our eyes, and the neurological processes that turn light waves into coherent images. However, since digital displays emit light and mix color in an additive fashion, `RGB` is a close approximation of how we perceive colors in the natural world.
 
 ### Making It Useful
 
-You can use the concept of hue contrast to strengthen and energize triadic color harmonies. You will often see these types of color palettes used in brands associated with children. At the same time, if you're using a triadic palette that is too overwhelming, try rotating the triad away from the primary colors to reduce the hue contrast.
+You can use the concept of hue contrast to strengthen and energize triadic color harmonies. You will often see these types of color palettes used in brands associated with children. At the same time, if you're using a triadic palette that is too overwhelming, try rotating the triad away from the primary colors to reduce the hue contrast. Red, green, and blue will tend to have more contrast than the secondary colors cyan, magenta, and yellow.
 
 <!--more-->
 ## Exercises
@@ -42,4 +41,4 @@ You can use the concept of hue contrast to strengthen and energize triadic color
 12. In this third column, from top to bottom, change the fill colors to orange (hue 30°), blue-green (hue 150°), and violet (hue 270°).
 13. This third column of colors also demonstrates hue contrast, but also to a lesser degree.
 
-In the last several lessons, we've primarily dealt with the contrast and relationships between different parts of the hue circle. In the next lesson, you're going to learn about the contrast of saturation.
+In the next lesson, you're going to learn about the contrast of saturation. Keep this design file handy.

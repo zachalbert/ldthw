@@ -5,8 +5,12 @@ date:   2017-01-01 13:37:11 -0700
 tags:
 - gestalt
 - color harmonies
+todo:
+- Add affiliate link
 ---
-In the next several lessons, you're going to be learning about the 7 contrasts, as described by influential color theorist Johannes Itten. Itten contributed a great deal to the field of color theory, and while he wrote prior to the age of digital design, there is much we can learn from his work [The Art of Color](LINKME AFFILIATE).
+In the next several lessons, you're going to be learning about the 7 contrasts, as described by influential color theorist Johannes Itten. Itten contributed a great deal to the field of color theory, and while he wrote prior to the age of digital design, there is much we can learn from his work [The Art of Color](https://www.amazon.com/Art-Color-Subjective-Experience-Objective/dp/0471289280).
+
+While Itten does have detractors, his framework of 7 contrasts is a useful tool for diagnosing contrast problems in your design.
 
 ### Contrast, Contrast, Contrast
 
@@ -16,7 +20,7 @@ Contrast is one of the most important things you have at your disposal as a desi
 
 ### The 7 contrasts
 
-In this lesson, we're specifically going to talk about the types of contrast you can achieve with the components of color. By the end of this next series, you will have learned about the following.
+In this lesson, we're specifically going to talk about the types of contrast you can achieve with the components of color. By the end of this next series of lessons, you will have learned about the following.
 
 1. The contrast of **complements**
 2. The contrast of **hue**
@@ -26,7 +30,7 @@ In this lesson, we're specifically going to talk about the types of contrast you
 6. The contrast of **extent**
 7. The contrast of **simultaneity**
 
-The following exercise will set up your design document for the next seven lessons.
+The following exercise is a bit dry, but will set up your design document for the next seven lessons.
 
 <!--more-->
 ## Exercises
@@ -42,4 +46,4 @@ The following exercise will set up your design document for the next seven lesso
   6. extension-contrast
   7. simultaneous-contrast
 
-When you've done that, move on to the next lesson.
+When you've done that, you're ready to move on to the next lesson.
