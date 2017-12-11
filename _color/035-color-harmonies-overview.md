@@ -7,28 +7,28 @@ tags:
 - gestalt
 - color harmonies
 ---
-In the [last exercise]({{ site.baseurl }}{% link _color/031-color-models-the-color-wheel.md %}), you created a color wheel from scratch. You're going to use that same wheel to learn about color harmonies in the next several lessons. Open the design document containing your color wheel, if it isn't already open.
+In the [last exercise]({{ site.baseurl }}{% link _color/031-color-models-the-color-wheel.md %}), you created a color wheel from scratch. You're going to use that same wheel to learn about color harmonies in the next several lessons. Open the design document containing your color wheel if it isn't already open.
 
 ### Harmonious and Disharmonious
 When we talk about color, we're really talking about the properties of light waves. There are many connections we can draw to sound waves and musical theory. You're probably familiar with harmonious chords in music, even if you're not a musician.
 
 The majority of musicians pursue aesthetically pleasing, *harmonious* combinations of notes. At the same time, some musicians, jazz musicians for instance, deliberately play with what an audience considers harmonious. They can stretch, combine, or outright break the rules to achieve the effect they're looking for.
 
-Still though, the definition of harmonious is in the ear of the beholder. If the listener changes, then the definition of harmonious changes. This can happen across generational lines, cultural, and geographic lines. The difference between Chinese and Italian opera illustrates this concept nicely.
+Harmony is in the ear of the beholder. If the listener changes, then the definition of harmonious changes. This can happen across generational lines, cultural, and geographic lines. The difference between Chinese and Italian opera illustrates this concept nicely.
 
-In the same way, you can combine different colors to create harmonious or disharmonious "chords." You will be learning the underlying chord types that can be achieved, but keep in mind that these rules are fluid and may change as the cultural context changes. The lesson on [color psychology]({{ site.baseurl }}{% link _color/002-color-psychology.md %}) delves into that concept in greater depth.
+In the same way, you can combine different colors to create harmonious or disharmonious "color chords." You will be learning well-established color harmonies in the next several lessons, but keep in mind that these rules are fluid and may change as the cultural context changes. The lesson on [color psychology]({{ site.baseurl }}{% link _color/002-color-psychology.md %}) delves into that concept in greater depth.
 
 ### Color Dominance
 
-As you learn about using the rules of color harmony to create pleasing color palettes, remember that a lot depends on which color you choose to let dominate the palette. A single triadic palette can look wildly different, depending on how much of each color is used. You will learn about this idea in greater depth in the lesson about the [contrast of extent]({{ site.baseurl }}{% link _color/100-contrast-of-extent.md %}). For now, keep this principle in mind as you progress through the following lessons.
+As you learn about using the rules of color harmony to create pleasing color palettes, remember that palettes rarely use each color in equal proportion. A single triadic palette can look wildly different, depending on the proportion of each color. You will learn about this idea in greater depth in the lesson about the [contrast of extent]({{ site.baseurl }}{% link _color/100-contrast-of-extent.md %}). For now, keep this principle in mind as you progress through the following lessons.
 
 ### Improving Your Skills
 
-In the same way that learning to play individual notes on a violin will not instantly make you a virtuoso, mastery over color will take years of study and practice. The following lessons will give you a solid theoretical foundation to base that continued practice on.
+In the same way that learning to play chords on a violin will not instantly make you a virtuoso, mastery over color will take years of study and practice. The following lessons will give you a solid theoretical foundation to base that continued practice on.
 
 To improve your skill with color, you must do two things.
 
-First, you need to *observe* color combinations in the wild, and *analyze* what makes them harmonious or disharmonious. Continue adding to the inspiration board you started in the [color overview lesson]({{ site.baseurl }}{% link _color/001-color-overview.md %}). As you build this library, add tags for the specific color harmonies you learn about. The goal is to be able to notice those harmonies in the wild, quickly assess whether they're used successfully or not, and how you'd handle it differently to make it more successful.
+First, you need to *observe* color combinations in the wild, and *analyze* what makes them harmonious or disharmonious. Continue adding to the inspiration board you started in the [color overview lesson]({{ site.baseurl }}{% link _color/001-color-overview.md %}). As you build this library, add tags for the specific color harmonies you learn about. The goal is to be able to notice those harmonies in the wild, quickly assess whether they're used successfully or not, and what you'd do differently to make it more successful.
 
 The second thing you need to do is practice *creating* harmonious color combinations. You will do that in the next series of lessons.
 

@@ -42,7 +42,7 @@ In this exercise, you're going to start by adjusting your layout grid to work fo
 
 4. You should now see 12 skinny columns in your frame, with 24px wide gutters.
 5. Anywhere in the frame, draw a 100px high rectangle that spans 8 columns (beginning from the left side of column #3, and ending on the right side of column #10). You may need to zoom up to ensure your rectangle matches your column widths exactly.
-![8 column rectangle](/images/layout-grids-fluid-width-01.png)
+![8 column rectangle](/images/layout/layout-grids-fluid-width-01.png)
 6. With the rectangle selected, look for the "Constraints" section in the design panel on the right. Select "Left & Right" from the first dropdown, and "Top & Bottom" from the second.
 7. This is just a brief introduction to the power of constraints. You're going to learn much more about constraints in future lessons. As a quick introduction however, you can now see that the rectangle you just drew will follow your layout grid perfectly, no matter the size of your frame. Test this by resizing your frame horizontally and vertically. Notice how the rectangle is always 8 columns wide? This mimics how layouts are implemented in code.
 8. Revert your frame back to its original size. You can either hit <span data-keyCombo="undo">undo</span>, or select the frame and pick the correct size preset from the design panel.

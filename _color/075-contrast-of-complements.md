@@ -38,5 +38,5 @@ When finished, you should spend a few minutes changing the background color to a
 
 ### Bonus
 
-<span class="float-right">![Complementary Colors Mix to Gray](/images/contrast-of-complements-01.png)</span>
+<span class="float-right">![Complementary Colors Mix to Gray](/images/color/contrast-of-complements-01.png)</span>
 This isn't necessary to understand complementary contrast, but is a cool effect if you want to try it yourself. Somewhere on the side, create a checkerboard pattern with any complementary pair of colors. Start by drawing a 1x1 rectangle and making it red — you'll need to zoom in to see it easily. Use the key combination of `alt/option` dragging and <span data-keyCombo="duplicate">duplicating</span> to create many copies to quickly produce a ~40x40 checkerboard pattern. Create a copy of the red checkerboard, and nudge it 1 to the right, then give those copies a cyan fill color. Finally, slowly zoom out until the colors seem to become one. The final color should be a neutral gray, illustrating how 2 complementary colors always mix together to form a neutral.

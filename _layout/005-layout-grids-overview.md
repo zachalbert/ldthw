@@ -20,7 +20,7 @@ The most powerful feature of grid-based design is that it is much easier to desi
 
 Most popular grid systems has twelve columns. Twelve is a great default which makes it easy to come up with many different layout configurations.
 
-![Layout configurations with a twelve column grid](/images/layout-grids-overview-01.png)
+![Layout configurations with a twelve column grid](/images/layout/layout-grids-overview-01.png)
 
 In this series of exercises, you're going to learn how to design for a responsive screen environment using a twelve column grid, like those used in the popular frameworks [Bootstrap](https://getbootstrap.com/) and [Foundation](https://foundation.zurb.com/). You're also going to use grid rows to help make spacing decisions easy and consistent.
 

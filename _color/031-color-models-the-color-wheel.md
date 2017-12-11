@@ -6,18 +6,25 @@ date:   2017-01-01 13:37:11 -0700
 tags:
 - gestalt
 - color harmonies
+todo:
+- show both versions of the color wheel, either in this lesson or the last
+- Show how the rotate copies tool works in sketch, or wait for updates to figma and update this video
 ---
-In this exercise, you're going to be creating a color wheel from scratch. The color wheel is an abstraction, which maps the visible spectrum of light onto 360° of a circle. This is an incredibly useful mental model to have, which will allow to quickly understand how to adjust color schemes to have the effect you're looking for.
+In this exercise, you're going to be creating a color wheel from scratch. The color wheel is an abstraction, which maps the visible spectrum of light onto 360° of a circle.
 
-In the [last exercise]({{ site.baseurl }}{% link _color/030-color-models-rgb-vs-ryb.md %}), we discussed 2 types of color wheels. From here on out, you're going to be using the `RGB` version of the wheel.
+In the [last exercise]({{ site.baseurl }}{% link _color/030-color-models-rgb-vs-ryb.md %}), we discussed 2 types of color wheel that use both `RYB` and `RGB` primaries. From here on out, you're going to be using the `RGB` version of the wheel.
 
 ### A Note About Numbers
 
-If you're not a numbers person, bear with me. It is possible to get good at manipulating color without understanding the underlying numbers, but it's borderline impossible without real time feedback from a teacher. Make an effort to understand the numbers, and you'll be rewarded with a sense of control over how to achieve the exact effect you're looking for.
+While design tools *do* provide you with a way to visually adjust every color component, you can also use the number values to adjust color. If you're not a numbers person, bear with me and make a good effort to learn the underlying numerical values. While the numbers aren't strictly necessary to get good at manipulating color, they are a shortcut.
+
+The following lessons will make heavy use of numerical values so that you can start to build an intuitive understanding of which values lead to which colors.
 
 ### Warm And cool
 
-You may have heard the terms "warm" or "cool" to describe color. Warm refers to reds, oranges, and yellows, whereas cool refers to greens, blues, and violets. The color wheel makes it easy to see this. While not divided perfectly in half, you can easily see that all warm colors are grouped together on one side, and all cool colors are grouped together on the other side. This fact will be very useful when you start to create your own color harmonies.
+You may have heard the terms "warm" or "cool" to describe color. Warm refers to reds, oranges, and yellows, whereas cool refers to greens, blues, and violets. Warm colors are energetic and tend to dominate a viewer's attention, almost appearing to advance forward in space. Cool colors have the opposite effect. They are calming, and tend to recede in visual space.
+
+The color wheel makes it very easy to understand how to change a color to increase or decrease its energy. While not divided perfectly in half, you can easily see that all warm colors are grouped together on one side of the wheel, and all cool colors are grouped together on the other side. To make a color more energetic, you simply need to shift it towards the warm side of the color wheel.
 
 <!--more-->
 ## Exercise
