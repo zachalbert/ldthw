@@ -7,10 +7,16 @@ tags:
 - gestalt
 - color harmonies
 ---
+Split complementary palettes are a slight variation on [complementary harmony]({{ site.baseurl }}{% link _color/040-color-harmonies-complementary.md %}). These palettes can be very energetic, or calm and balanced with the right proportions.
+
+A split complementary palette uses 3 colors. It looks a bit like a complementary pair, but one of the pairs is split to use the color on either side. The relationship between the two colors closest to each other is close to analogous, and therefore fairly subdued. However, they are paired with a high-contrast complement.
 
 ![Split Complementary Color Harmony](/images/color/color-wheel-split-complementary.png)
 
-* Analogous + complementary mixed together
+### Using Split Complements
+Proportions are very important when working with split complements. Typically, you will let two colors dominate, while using the other as an accent.
+
+For instance, if you allow the two closest colors to dominate, then use their complement on the other side of the wheel as an accent, you will achieve a calming palette with vibrant splashes of color. You will see this combination used frequently in interior design.
 
 <!--more-->
 ## Exercises
@@ -25,4 +31,4 @@ tags:
 8. For the third row of blue, after making 2 copies, you'll need to invert your math and subtract 150 and 210 degrees, respectively. This will prevent hues greater than 360 which Figma doesn't allow.
 9. Finally, in the last row, try to get the 2 split complements on your own. Remember to add or subtract 150 and 210 based on your starting hue value to prevent the final number going above 360 or below 0.
 
-In the next lesson, you're going to tackle triadic harmonies.
+In the next lesson, you're going to tackle triadic harmonies. Keep this file handy.

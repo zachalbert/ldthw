@@ -7,13 +7,21 @@ tags:
 - gestalt
 - color harmonies
 ---
-If [complementary color palettes]({{ site.baseurl }}{% link _color/040-color-harmonies-complementary.md %}) are full of energy, then **analogous** color palettes are the opposite. Analogous palettes are significantly less energetic, and can often be observed in natural landscapes.
+If [complementary color palettes]({{ site.baseurl }}{% link _color/040-color-harmonies-complementary.md %}) are full of energy, then **analogous** color palettes are the opposite. Analogous palettes are significantly less energetic, and can often be observed in serene natural landscapes.
+
+An analogous color palette is one which uses 3-5 colors that sit right next to each other on the color wheel.
 
 ![Analogous Color Harmony](/images/color/color-wheel-analogous.png)
 
-* definition
-* Qualities
-* How to use
+### A Calming Palette
+
+Analogous palettes have a calming quality because they use colors which come from the same part of the color spectrum. This effect is often very pleasing, and difficult to screw up.
+
+These palettes are a great choice for any brand that wants to evoke serenity or calm, especially if it's inspired by or related to nature.
+
+### Warm Analogous vs Cool Analogous
+
+Pay special attention to the warmth of analogous palettes. If you situate the palette in the warm side of the color wheel, while there won't be much contrast between colors, you will still get a fairly energetic result since the colors are all warm. By contrast, an analogous palette situated in the cool end of the spectrum will have an incredibly calming, relaxed effect.
 
 <!--more-->
 ## Exercises
@@ -29,4 +37,4 @@ If [complementary color palettes]({{ site.baseurl }}{% link _color/040-color-har
 9. With the second blue circle, *reduce* the hue by about 30°, and for the third blue circle, *increase* the hue by 30°. This should give you a cool, calming blue palette based on your starting color.
 10. Finally, with the last color circle, come up with an analogous palette of your choice. Try to have a specific direction in mind (e.g. moving the palette towards the warm or cool sides of the color wheel).
 
-Analogous palettes are also pretty easy to generate, and create a far less energetic feel than a complementary palette. You'll continue in the next lesson with the split complementary harmony.
+You'll continue in the next lesson with the split complementary harmony, so hang on to this file.

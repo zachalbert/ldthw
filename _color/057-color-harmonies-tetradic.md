@@ -7,10 +7,17 @@ tags:
 - gestalt
 - color harmonies
 ---
+Tetradic color palettes are complex and interesting palettes to work with. They consist of 2 minimally contrasting colors that are close to each other on the wheel, paired with an additional 2 colors which complement the first pair.
 
 ![Tetradic Color Harmony](/images/color/color-wheel-tetradic.png)
 
-* balanced
+### Proportions and Balance
+
+Like [split complementary palettes]({{ site.baseurl }}{% link _color/050-color-harmonies-split-complement.md %}), the proportions you pick for each color in the palette will yield extremely different results.
+
+If you let two colors dominate that are far apart from each other, you will get an energetic, high-contrast palette with analogous accents.
+
+On the other hand, if you let two colors dominate that are closer to analogous, you will get a calming palette with high-contrast accents. This version of the tetradic harmony won't be as energetic, but will still be quite lively.
 
 <!--more-->
 ## Exercises
@@ -26,4 +33,4 @@ tags:
 9. For the row with blue, follow the same procedure. Choose whether you want the second pair of complements to start by adding or subtracting 60 from the base blue.
 10. Finally, create a tetradic harmony with the color of your choice in the fourth row.
 
-In the next row, you're going to learn about square harmonies, which are a slight variation of tetradic harmonies.
+In the next row, you're going to learn about square harmonies, which are a slight variation of tetradic harmonies. Keep this file.

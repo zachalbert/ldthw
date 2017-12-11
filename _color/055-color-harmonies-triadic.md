@@ -7,10 +7,15 @@ tags:
 - gestalt
 - color harmonies
 ---
+Triadic color harmonies result in a fairly high-contrast, but balanced color palette. They consist of 3 colors, equally spaced around the color wheel.
 
 ![Triadic Color Harmony](/images/color/color-wheel-triadic.png)
 
-* balanced
+### Hue Contrast
+
+Triadic palettes provide the greatest possible contrast between 3 hues on the wheel. In the upcoming lesson on [hue contrast]({{ site.baseurl }}{% link _color/080-contrast-of-hue.md %}), you will learn more about this effect.
+
+These palettes are often used when energy is required, and you need more colors than a complementary palette provides. You'll frequently see them used for brands who create products for babies and toddlers, who seem to be drawn to bright primary colors.
 
 <!--more-->
 ## Exercises
@@ -24,4 +29,4 @@ tags:
 7. For the blue row, you'll need to subtract 120 to one copy, and add 120 to the other to keep the hues in the 0-360 range. Notice the similarities to the first row that uses pure red, green, and blue? This row's base color is only 50% as saturated, which yields a similar, but more subdued palette.
 8. Do the same procedure for the fourth row, adding or subtracting 120° as necessary.
 
-In the next exercise, you're going to get more complex and build a 4 color tetradic harmony.
+In the next exercise, you're going to get more complex and build a 4 color tetradic harmony. Keep this file handy.

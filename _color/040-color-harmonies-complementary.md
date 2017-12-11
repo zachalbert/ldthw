@@ -7,7 +7,9 @@ tags:
 - gestalt
 - color harmonies
 ---
-Complementary colors are the first color harmony you're going to learn about. This harmony consists of two colors, which are opposite from each other on the color wheel.
+Complementary colors are the first color harmony you're going to learn about. Complementary palettes are extremely energetic, and lend a great deal of contrast to a design.
+
+This harmony consists of two colors, which are opposite from each other on the color wheel.
 
 ![Complementary Color Harmony](/images/color/color-wheel-complementary.png)
 

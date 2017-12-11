@@ -23,4 +23,4 @@ tags:
 7. Follow the same procedure for the blue row. Make sure to keep all the colors 90° apart, and in the 0-360° range, which will require you to both add and subtract.
 8. Finally, repeat the procedure for the fourth row of color.
 
-In the next lesson, you're going to learn about the final color harmony: hexadic.
+In the next lesson, you're going to learn about the final color harmony: hexadic. You'll continue to use the same design file.
