@@ -7,8 +7,13 @@ tags:
 - gestalt
 - color harmonies
 ---
-* calming
-* natural
+If [complementary color palettes]({{ site.baseurl }}{% link _color/040-color-harmonies-complementary.md %}) are full of energy, then **analogous** color palettes are the opposite. Analogous palettes are significantly less energetic, and can often be observed in natural landscapes.
+
+![Analogous Color Harmony](/images/color/color-wheel-analogous.png)
+
+* definition
+* Qualities
+* How to use
 
 <!--more-->
 ## Exercises

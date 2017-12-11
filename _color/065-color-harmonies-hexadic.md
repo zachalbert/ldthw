@@ -7,6 +7,9 @@ tags:
 - gestalt
 - color harmonies
 ---
+
+![Hexadic Color Harmony](/images/color/color-wheel-hexadic.png)
+
 * balanced
 
 <!--more-->

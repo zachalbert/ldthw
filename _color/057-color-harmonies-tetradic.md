@@ -7,6 +7,9 @@ tags:
 - gestalt
 - color harmonies
 ---
+
+![Tetradic Color Harmony](/images/color/color-wheel-tetradic.png)
+
 * balanced
 
 <!--more-->

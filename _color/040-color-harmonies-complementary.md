@@ -9,6 +9,8 @@ tags:
 ---
 Complementary colors are the first color harmony you're going to learn about. This harmony consists of two colors, which are opposite from each other on the color wheel.
 
+![Complementary Color Harmony](/images/color/color-wheel-complementary.png)
+
 Narrowly defined, two complements will yield a perfectly neutral gray tone when mixed together. This effect will be demonstrated in the upcoming lesson [contrast of complements]({{ site.baseurl }}{% link _color/075-contrast-of-complements.md %}). Essentially, complementary colors cancel each other out.
 
 When two complements are placed *next* to each other (rather than mixed together), the result is the greatest amount of contrast possible between those two colors. This is why complementary colors are referred to as color opposites.

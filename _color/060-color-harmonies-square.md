@@ -7,6 +7,9 @@ tags:
 - gestalt
 - color harmonies
 ---
+
+![Square Color Harmony](/images/color/color-wheel-square.png)
+
 * A square harmony is very similar to the tetradic harmony. Both use 4 colors, but the square harmony uses 2 pairs of complements that are perpendicular to each other. This results in 4 colors that are perfectly spaced around the color wheel, with 2 steps between each part of the palette.
 
 <!--more-->

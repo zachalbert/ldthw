@@ -7,6 +7,9 @@ tags:
 - gestalt
 - color harmonies
 ---
+
+![Split Complementary Color Harmony](/images/color/color-wheel-split-complementary.png)
+
 * Analogous + complementary mixed together
 
 <!--more-->

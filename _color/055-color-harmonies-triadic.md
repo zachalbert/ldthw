@@ -7,6 +7,9 @@ tags:
 - gestalt
 - color harmonies
 ---
+
+![Triadic Color Harmony](/images/color/color-wheel-triadic.png)
+
 * balanced
 
 <!--more-->
