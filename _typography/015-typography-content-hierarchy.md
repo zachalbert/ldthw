@@ -15,9 +15,9 @@ date:   2017-01-01 13:37:11 -0700
 ## Exercise
 1. Open the design document you started in the [last exercise]({{ site.baseurl }}{% link _typography/010-typography-goals.md %}). In this exercise, you're going to be laying out all the content you'll need to build a typographic system.
 2. Select the <span data-keyCombo="frame">frame tool</span>, and create a new "Desktop" sized frame, or draw a frame that is 1024x1024.
-3. In more modern design tools, managing lots of typography can be a bit of a challenge. Each element in your content hierarchy will need its own block of text. I will provide you with some text you can use for this exercise, copied from [wikipedia's article on Fiji](https://en.wikipedia.org/wiki/Fiji#Tourism).
+3. In Figma, each element in your content hierarchy will need its own block of text. I will provide you with some text you can use for this exercise, copied from [Wikipedia's article on Fiji](https://en.wikipedia.org/wiki/Fiji#Tourism).
 
-For each of the rows in the following table, copy the text into a new fixed-width text block in your design document in order. Don't worry too much about the width of the text blocks, but make sure they fit within the desktop frame you created in the previous step.
+For each of the rows in the following table, copy the text into a new fixed-width text block in your design document in order. Don't worry too much about the width of the text blocks yet, but make sure they fit within the desktop frame you created in the previous step.
 
 | Text Block Type | Level in Content Hierarchy | Tag in HTML | Default Size[^1] | Sample Text[^2] |
 |-|-|-|-|
@@ -33,4 +33,4 @@ For each of the rows in the following table, copy the text into a new fixed-widt
 [^2]: You can use your own text if you'd prefer.
 [^3]: The image this caption refers to can be found [here](https://en.wikipedia.org/wiki/Fiji#/media/File:The_Point_(Fiji).jpg)
 
-You're done when you have a text block with the information in the table above. Hang on to this file, because we're going to begin the process of beautifying in the next lesson.
+You're done when you have a fixed-width text block for each paragraph of text in the table above. Hang on to this file, because we're going to begin the process of de-uglifying it in the next lesson.
