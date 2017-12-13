@@ -11,13 +11,13 @@ date:   2017-01-01 13:37:11 -0700
 
 <!--more-->
 ## Exercise
-In the following series of exercises you're going to design a typographic system for a fictional travel magazine of your choosing. This first exercise will focus on building inspiration and forming a clear picture of the goal you're trying to achieve. You're going to be working in the same design file for the remainder of the lessons on typography.
+In the following series of exercises you're going to design a typographic system for a fictional travel website of your choosing. This first exercise will focus on building inspiration and forming a clear picture of the goal you're trying to achieve. You're going to be working in the same design file for the remainder of the lessons on typography.
 
-1. Pick the niche you want your fictional travel magazine to occupy. In the videos, we're going
-to design for a more luxurious travel mag, but you can pick a different niche to challenge yourself.
-2. In a new design document, paste several images of the type of travel this magazine will
+1. Pick the niche you want your fictional travel website to occupy. In the videos, we're going
+to design for a more luxurious travel website, but you can pick a different niche to challenge yourself.
+2. In a new design document, paste several images of the type of travel this website will
 cover. Also, paste images of other brands your readers will likely be accustomed to.
-For our luxury travel mag, I found inspiration from luxury clothing, condo, and car makers.
+For our luxury travel website, I found inspiration from luxury clothing, condo, and car makers.
 3. This inspiration will help you derive a few terms that represent your typographic goals. Refer to the exercise
 on [developing brand principles]({{ site.baseurl }}{% link _basics/020-developing-principles.md %})
 for more information on how to do this.
