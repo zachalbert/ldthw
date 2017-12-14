@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Content Hierarchy'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Content Hierarchy"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * Content is king
 * Content has a conceptual hierarchy (title is more important than a caption), so mirror this hierarchy visually.
 * Use enough contrast between levels.

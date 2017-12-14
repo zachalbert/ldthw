@@ -1,15 +1,17 @@
 ---
-layout: post
-title:  "Color Models 4: the Color Wheel"
-video: color/color-models-04-the-color-wheel.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Models 4: the Color Wheel'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
+video: color/color-models-04-the-color-wheel.mp4
 todo:
 - show both versions of the color wheel, either in this lesson or the last
-- Show how the rotate copies tool works in sketch, or wait for updates to figma and update this video
+- Show how the rotate copies tool works in sketch, or wait for updates to figma and
+  update this video
 ---
+
 In this exercise, you're going to be creating a color wheel from scratch. The color wheel is an abstraction, which maps the visible spectrum of light onto 360° of a circle.
 
 In the [last exercise]({{ site.baseurl }}{% link _color/030-color-models-rgb-vs-ryb.md %}), we discussed 2 types of color wheel that use both `RYB` and `RGB` primaries. From here on out, you're going to be using the `RGB` version of the wheel.

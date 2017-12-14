@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Goals'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Goals"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * What is a typographic system? You're going to be making one.
 * law of past experience, brand principles.
 * List of abstract words, and a few typographic examples.

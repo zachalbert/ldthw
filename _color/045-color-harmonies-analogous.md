@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Color Harmonies: Analogous"
-video: color/color-harmonies-analogous.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Harmonies: Analogous'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
+video: color/color-harmonies-analogous.mp4
 ---
+
 If [complementary color palettes]({{ site.baseurl }}{% link _color/040-color-harmonies-complementary.md %}) are full of energy, then **analogous** color palettes are the opposite. Analogous palettes are significantly less energetic, and can often be observed in serene natural landscapes.
 
 An analogous color palette is one which uses 3-5 colors that sit right next to each other on the color wheel.

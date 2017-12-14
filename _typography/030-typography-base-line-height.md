@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Base Line Height'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Base Line Height"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * Line height, and the foundational importance of that measurement in the layout
 * Importance of appropriate line height on readability and legibility, plus finding the next line of text.
 * Rule of thumb: 1.2 - 1.5

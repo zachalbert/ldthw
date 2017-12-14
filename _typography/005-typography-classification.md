@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Classification'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Classification"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * Why these classifiers are useful
 * Basic type anatomy, and why they're important (x height, cap height, modulation, terminals + serifs)
 * Basic type classification using Vox-ATypeI — broad categories

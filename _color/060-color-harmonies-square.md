@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Color Harmonies: Square"
-video: color/color-harmonies-square.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Harmonies: Square'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
+video: color/color-harmonies-square.mp4
 ---
+
 Like [tetradic harmonies]({{ site.baseurl }}{% link _color/057-color-harmonies-tetradic.md %}), a square harmony consists of 4 colors. However, in a square palette, all 4 colors are equally spaced around the color wheel by 90°.
 
 ![Square Color Harmony](/images/color/color-wheel-square.png)

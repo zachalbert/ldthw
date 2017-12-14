@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Line Length'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Line Length"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * What it is, why it's important to get the optimal line length (measure)
 * Line length is important to control because it affects reading speed. If the line length is too short, text will be fast to read but increase eye fatigue. Line lengths that are too long will make it more challenging to find the next line of text, also increasing fatigue.
 * Rule of thumb 65 - 85

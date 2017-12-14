@@ -1,11 +1,12 @@
 ---
-id: 001
-layout: post
-title:  "Color Theory: Overview"
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Theory: Overview'
+date: 2017-01-01 20:37:11 Z
 tags:
 - color
+id: 1
+layout: post
 ---
+
 * High level goals for color:
   - set expectations
   - help them understand what it means to work with color

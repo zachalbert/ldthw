@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Color Harmonies: Hexadic"
-video: color/color-harmonies-hexadic.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Harmonies: Hexadic'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
+video: color/color-harmonies-hexadic.mp4
 ---
+
 Hexadic color palettes are very similar to [square palettes]({{ site.baseurl }}{% link _color/060-color-harmonies-square.md %}), but they use 6 equally spaced colors rather than 4.
 
 ![Hexadic Color Harmony](/images/color/color-wheel-hexadic.png)

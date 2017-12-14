@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Color Variants: Creating Shades"
-video: color/color-variants-02-creating-shades.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Variants: Creating Shades'
+date: 2017-01-01 20:37:11 Z
 tags:
 - color
+layout: post
+video: color/color-variants-02-creating-shades.mp4
 ---
+
 In the [last exercise]({{ site.baseurl }}{% link _color/005-tints.md %}), you created 4 tints from the base color of `#407A80`. You're now going to do the same thing with shades.
 
 In nature, shadows are very rarely pure black because of the physics of how light scatters through our atmosphere and picks up the quality of the surface it bounces off. The next time you observe an object sitting on a colored surface with strong lighting, try to notice the color in the shadow.

@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Picking Typefaces 1'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Picking Typefaces 1"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * difference between fonts and Typefaces
 * Rules of thumb:
   * no more than 2 typefaces

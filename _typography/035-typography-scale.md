@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Type Scale'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Type Scale"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * What it is, why it's important
 * The classic type scale
 * use your base ratio to determine your type scale

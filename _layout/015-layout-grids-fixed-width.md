@@ -1,14 +1,14 @@
 ---
-id: 015
-layout: post
-title: "Layout Grids: Fixed Width"
-video: layout/layout-03-fixed-width.mp4
-date: "2017-01-01 13:37:11 -0700"
+title: 'Layout Grids: Fixed Width'
+date: 2017-01-01 20:37:11 Z
 tags:
-  - grids
-  - layout
-  - typography
-  - responsive web design
+- grids
+- layout
+- typography
+- responsive web design
+id: 13
+layout: post
+video: layout/layout-03-fixed-width.mp4
 ---
 
 In the [last exercise]({{ site.baseurl }}{% link _layout/010-layout-grids-fluid-width.md %}), you set up a fluid width layout grid on a mobile frame. That type of grid will stretch and shrink in proportion to the different device widths that view it. That may work fine for certain cases like fluid width web apps or small mobile screens, but you'll want to use a fixed width grid for text-heavy designs like blogs and content sites.

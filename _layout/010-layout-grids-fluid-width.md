@@ -1,14 +1,15 @@
 ---
-id: 010
-layout: post
-title:  "Layout Grids: Fluid Width"
-video: layout/layout-02-fluid-width.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Layout Grids: Fluid Width'
+date: 2017-01-01 20:37:11 Z
 tags:
 - grids
 - layout
 - responsive web design
+id: 8
+layout: post
+video: layout/layout-02-fluid-width.mp4
 ---
+
 In this exercise, you're going to adjust the layout grid in the frame you created in the [last exercise]({{ site.baseurl }}{% link _layout/005-layout-grids-overview.md %}) to work with popular twelve column grid systems. You'll be loosely modeling your design file after the grid system used in the most ubiquitous framework, [Bootstrap](https://getbootstrap.com/), which will increase the likelihood a software developer can implement your design with ease.
 
 ### Fixed vs Fluid

@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Color Variants: The Alpha Channel"
-video: color/color-variants-04-the-alpha-channel.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Variants: The Alpha Channel'
+date: 2017-01-01 20:37:11 Z
 tags:
 - color
+layout: post
+video: color/color-variants-04-the-alpha-channel.mp4
 ---
+
 In the last few exercises, you explored creating tints, shades, and tones. In this exercise, we're going to talk about the alpha channel, which controls the opacity of a color.
 
 Opacity can be used in a variety of circumstances. It is commonly for overlay effects, such as drop shadows or adding text or icons on top of an image with a lot of color or value variance.

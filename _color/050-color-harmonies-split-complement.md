@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Color Harmonies: Split Complementary"
-video: color/color-harmonies-split-complementary.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Harmonies: Split Complementary'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
+video: color/color-harmonies-split-complementary.mp4
 ---
+
 Split complementary palettes are a slight variation on [complementary harmony]({{ site.baseurl }}{% link _color/040-color-harmonies-complementary.md %}). These palettes can be very energetic, or calm and balanced with the right proportions.
 
 A split complementary palette uses 3 colors. It looks a bit like a complementary pair, but one of the pairs is split to use the color on either side. The relationship between the two colors closest to each other is close to analogous, and therefore fairly subdued. However, they are paired with a high-contrast complement.

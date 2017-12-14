@@ -1,12 +1,13 @@
 ---
-id: 002
-layout: post
-title:  "Color Psychology"
-date:   2017-01-01 13:37:11 -0700
+title: Color Psychology
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+id: 2
+layout: post
 ---
+
 Color psychology, as it's commonly described, is the belief that the presence of certain colors in our environment will affect our behavior. While reliable evidence does exist that color has an effect, it's a subtle one that is specific to an individual.
 
 As it relates to brands, the [Gestalt Law of Past Experience]({{ site.baseurl }}{% link _gestalt/050-gestalt-law-past-experience.md %}) gives us a clue about how color psychology works. This law says that we tend to group our perceptions with similar things we've experienced in the past.

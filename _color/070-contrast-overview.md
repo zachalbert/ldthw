@@ -1,13 +1,14 @@
 ---
-layout: post
-title:  "Contrast: Overview"
-date:   2017-01-01 13:37:11 -0700
+title: 'Contrast: Overview'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 todo:
 - Add affiliate link
 ---
+
 In the next several lessons, you're going to be learning about the 7 contrasts, as described by influential color theorist Johannes Itten. Itten contributed a great deal to the field of color theory, and while he wrote prior to the age of digital design, there is much we can learn from his work [The Art of Color](https://www.amazon.com/Art-Color-Subjective-Experience-Objective/dp/0471289280).
 
 While Itten does have detractors, his framework of 7 contrasts is a useful tool for diagnosing contrast problems in your design.

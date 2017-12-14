@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Contrast of Simultaneity"
-date:   2017-01-01 13:37:11 -0700
+title: Contrast of Simultaneity
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 ---
+
 The contrast of simultaneity is the strangest contrast we're going to talk about. It deals with our eye's inability to perceive color independently, and the tendency for color perception to always be tweaked by other colors we perceive simultaneously.
 
 For instance, one practical application of the contrast of simultaneity is by using complements. You can make the purest red appear *even more* red by surrounding it with its complement. The complement of cyan will provide a lot of contrast, and has the strange effect of intensifying the base red.

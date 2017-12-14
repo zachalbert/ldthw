@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Contrast of Complements"
-date:   2017-01-01 13:37:11 -0700
+title: Contrast of Complements
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 ---
+
 Isaac Newton noticed something curious about paint color, that was later experimentally confirmed. When mixing paint, any given color has an "opposite" which, when mixed in the right proportions, produces a neutral gray tone. These pairs of colors were dubbed **complementary**. On the color wheel, complementary colors are directly opposite each other (separated by 180°), and match each other's saturation and brightness.
 
 While complementary colors cancel each other out to produce neutrals when mixed, they also produce the greatest possible contrast when placed next to each other. As we've discussed already, colors can *change* based on the context in which they're viewed. You can make a yellow seem even more yellow by surrounding it with its complement, blue.

@@ -1,12 +1,13 @@
 ---
-id: 004
-layout: post
-title:  "Color Models 1: Using HSB Mode"
-video: color/color-models-01-using-hsb.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Models 1: Using HSB Mode'
+date: 2017-01-01 20:37:11 Z
 tags:
 - color
+id: 4
+layout: post
+video: color/color-models-01-using-hsb.mp4
 ---
+
 On a digital display, there are *millions* of possible colors. The labels we typically use to talk about colors are grossly inadequate from a design perspective. Even some of the more specific labels you might see at a paint store like "forest green" could refer to a thousands of possible greens.
 
 Using these color labels is like telling the postal service you live "somewhere in the lower east side of Manhattan" and hoping they send your mail to the right location. You *could* get more specific and provide GPS coordinates to ensure accuracy, but it would also be impossible for a human to decipher without an electronic tool. A street address, however, is both accurate and easy for a human to understand with minimal assistance.

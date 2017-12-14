@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Base Font Size'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Base Font Size"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * The size and line height of your body copy is the heart of an internally consistent system
 * This will focus on your base font size, and all other sizes will be based on the decisions you make here.
 * Refer to [units of measure]({{ site.baseurl }}{% link _basics/015-units-of-measure.md %})

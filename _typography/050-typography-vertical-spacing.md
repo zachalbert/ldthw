@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Vertical Spacing'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Vertical Spacing"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * Rule of proximity
 * Follow the content Hierarchy
 * Grids make it easier. Simple grid??

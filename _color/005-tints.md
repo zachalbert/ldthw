@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Color Variants: Creating Tints"
-video: color/color-variants-01-creating-tints.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Variants: Creating Tints'
+date: 2017-01-01 20:37:11 Z
 tags:
 - color
+layout: post
+video: color/color-variants-01-creating-tints.mp4
 ---
+
 Creating a color palette is an exploratory process that requires you to look at many variations before settling on a final arrangement. While you will be thinking about which hues go well together, you'll also need to decide on many other components of the color palette.
 
 ### Tints, Shades, and Tones

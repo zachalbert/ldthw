@@ -1,8 +1,9 @@
 ---
+title: Design Ethics
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Design Ethics"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * Design is the best job in the world
 * Design is a multiplier
 * Design requires discipline, and responsibility

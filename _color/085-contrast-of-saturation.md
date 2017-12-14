@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Contrast of Saturation"
-date:   2017-01-01 13:37:11 -0700
+title: Contrast of Saturation
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 ---
+
 The contrast of saturation deals with the relative purity between two colors. A fully saturated color will tend to look vibrant and almost artificial, whereas a desaturated color will seem diluted — especially when placed next to saturated colors.
 
 You may have also heard the word "chroma," which is another way to describe saturation in some color systems.

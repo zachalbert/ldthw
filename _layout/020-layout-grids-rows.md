@@ -1,13 +1,14 @@
 ---
-id: 020
-layout: post
-title:  "Layout Grids: Rows"
-video: layout/layout-04-rows.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Layout Grids: Rows'
+date: 2017-01-01 20:37:11 Z
 tags:
 - grids
 - layout
+id: 16
+layout: post
+video: layout/layout-04-rows.mp4
 ---
+
 In the last exercise, you set up 4 frames for a responsive web design project using a mixture of fluid and fixed width layout grids. Now, you're going to add a new layout grid of horizontal rows which will make it easier to control the vertical space between design elements. Use the same design file that you set up in the [last exercise]({{ site.baseurl }}{% link _layout/015-layout-grids-fixed-width.md %}).
 
 The layout grid you're going to use in this exercise will use proportionally similar measurements as the grids you've already created. This makes it dead simple to enforce consistent spacing everywhere, which will create a remarkably stable aesthetic in your layouts.

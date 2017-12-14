@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Contrast of Hue"
-date:   2017-01-01 13:37:11 -0700
+title: Contrast of Hue
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 ---
+
 Contrast of hue is demonstrated by placing 3 triadic colors next to each other. The effect is strongest with primary colors, weakened with secondary colors, and weakened even further with tertiary colors.
 
 ### RGB, not RYB

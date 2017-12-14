@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Color Palette Exploration"
-date:   2017-01-01 13:37:11 -0700
+title: Color Palette Exploration
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 ---
+
 In this final lesson on color, you're going to learn a repeatable process for designing color palettes. The process of designing a color palette from scratch is exploratory. You will need to look at many different color combinations to arrive at something that is pleasing. You will learn some rough guidelines for doing this, but like everything you have learned so far, the key to mastery is **practice**.
 
 ### Seeing is Believing

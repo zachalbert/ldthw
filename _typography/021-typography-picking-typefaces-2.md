@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Picking Typefaces 2'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Picking Typefaces 2"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * Seeing is believing. You can't simply see another instance of type and know it'll work for you. Get it into your design app to play around with it. Use a matrix to see many instances together.
 
 <!--more-->

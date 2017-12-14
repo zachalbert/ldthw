@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Contrast of Warm / Cool"
-date:   2017-01-01 13:37:11 -0700
+title: Contrast of Warm / Cool
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 ---
+
 The contrast of warm and cool is one of the most interesting and powerful contrasts at your disposal. Warm colors are a category of colors ranging from magenta/red to yellow/green on the color wheel, and cool colors range from cyan/blue to blue/magenta.
 
 ### Warm

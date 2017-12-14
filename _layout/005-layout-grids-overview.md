@@ -1,15 +1,16 @@
 ---
-id: 005
-layout: post
-title:  "Layout Grids: Overview"
-video: layout/layout-01-overview.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Layout Grids: Overview'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - grids
 - layout
 - responsive web design
+id: 5
+layout: post
+video: layout/layout-01-overview.mp4
 ---
+
 Grids have a very long history of use in design and book layout. They provide simple rules that make it much easier to lay design elements out in a rational, proportionate way. While a grid doesn't have to be rigidly followed all of the time, using them for most design decisions will greatly reduce the time and effort to produce a high quality layout.
 
 Layouts produced using a coherent grid system will seem to have "rhythm." In the same way that musicians (usually) strive for a consistent, reliable rhythm, designers should do so as well. Unless you're deliberately trying to break the mold.

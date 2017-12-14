@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Contrast of Extent"
-date:   2017-01-01 13:37:11 -0700
+title: Contrast of Extent
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 ---
+
 The contrast of extent is also known as the contrast of proportion. It refers to the *amount* of color present in a composition, and how dominant that color is in relation to other colors. As you have no doubt realized at this point, some colors are more vibrant than others, so you can use less of the color to capture attention.
 
 ### Uneven Palettes

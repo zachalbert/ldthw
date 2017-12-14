@@ -1,13 +1,14 @@
 ---
-layout: post
-title:  "Color Models 3: RGB vs RYB"
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Models 3: RGB vs RYB'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 todo:
 - Show the rgb vs ryb wheel
 ---
+
 In this lesson, you're going to lose some cherished beliefs you may still be holding on to from your early years. You'll be creating your own color wheel from scratch, which is invaluable tool to understand the relationships between hues.
 
 During the course of the next two lessons, you'll learn that the most popular theory of color opposites and primary colors only applies in certain situations.

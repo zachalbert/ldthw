@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Color Harmonies: Triadic"
-video: color/color-harmonies-triadic.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Harmonies: Triadic'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
+video: color/color-harmonies-triadic.mp4
 ---
+
 Triadic color harmonies result in a fairly high-contrast, but balanced color palette. They consist of 3 colors, equally spaced around the color wheel.
 
 ![Triadic Color Harmony](/images/color/color-wheel-triadic.png)

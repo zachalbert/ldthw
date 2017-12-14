@@ -1,13 +1,15 @@
 ---
-layout: post
-title:  "Color Models 2: RGB vs CMYK"
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Models 2: RGB vs CMYK'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 todo:
-- Find a good image with a public license that shows the visible spectrum, rgb, and cmyk color spaces
+- Find a good image with a public license that shows the visible spectrum, rgb, and
+  cmyk color spaces
 ---
+
 This lesson deals with the differences between `RGB` and `CMYK` color models. There is no accompanying exercise, because at the time of this writing, most design software *that specializes in UI* doesn't allow designers to work in `CMYK` mode — with the notable exception of the Adobe Creative Suite of products like Photoshop and Illustrator. Despite this , it's still important for a designer to understand the differences.
 
 ### CMYK Mode

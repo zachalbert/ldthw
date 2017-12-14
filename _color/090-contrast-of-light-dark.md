@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  "Contrast of Light / Dark"
-date:   2017-01-01 13:37:11 -0700
+title: Contrast of Light / Dark
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
 ---
+
 * Black & White are on both ends of the light / dark neutral spectrum
 * For colors, show desaturated + bright white, saturated + dark violet
 * light looks bigger

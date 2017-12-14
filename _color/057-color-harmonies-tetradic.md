@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Color Harmonies: Tetradic"
-video: color/color-harmonies-tetradic.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Harmonies: Tetradic'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
+video: color/color-harmonies-tetradic.mp4
 ---
+
 Tetradic color palettes are complex and interesting palettes to work with. They consist of 2 minimally contrasting colors that are close to each other on the wheel, paired with an additional 2 colors which complement the first pair.
 
 ![Tetradic Color Harmony](/images/color/color-wheel-tetradic.png)

@@ -1,8 +1,9 @@
 ---
+title: 'Typography: Overview'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Overview"
-date:   2017-01-01 13:37:11 -0700
 ---
+
 * why type is important
 * Expectations of how long it'll take you to master typographic design
 * Show dec of independence in comic sans, or a building inscription in marker felt, and an office announcement in blackletter

@@ -1,12 +1,13 @@
 ---
-layout: post
-title:  "Color Harmonies: Overview"
-video: color/color-harmonies-overview.mp4
-date:   2017-01-01 13:37:11 -0700
+title: 'Color Harmonies: Overview'
+date: 2017-01-01 20:37:11 Z
 tags:
 - gestalt
 - color harmonies
+layout: post
+video: color/color-harmonies-overview.mp4
 ---
+
 In the [last exercise]({{ site.baseurl }}{% link _color/031-color-models-the-color-wheel.md %}), you created a color wheel from scratch. You're going to use that same wheel to learn about color harmonies in the next several lessons. Open the design document containing your color wheel if it isn't already open.
 
 ### Harmonious and Disharmonious
