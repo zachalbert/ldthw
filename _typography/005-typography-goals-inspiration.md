@@ -1,5 +1,5 @@
 ---
-title: 'Typography: Goals'
+title: 'Typography: Goals & Inspiration'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
@@ -22,6 +22,6 @@ For our luxury travel website, I found inspiration from luxury clothing, condo, 
 3. This inspiration will help you derive a few terms that represent your typographic goals. Refer to the exercise
 on [developing brand principles]({{ site.baseurl }}{% link _basics/020-developing-principles.md %})
 for more information on how to do this.
-4. The typographic terms I ended up with are **minimalist**, **thin**, **highly modulated**. While the term minimalist doesn't refer specifically to typography, it conjures up a clear image in my mind — which is the most important part about picking these terms. Write these terms in your design file prominently so you can keep them in mind when designing.
+4. The typographic terms I ended up with are **sharp**, **highly modulated**, **heavy**. While these terms don't have to refer specifically to typography, they conjure up a clear image in my mind — which is the most important part about picking these terms. Write these terms in your design file prominently so you can keep them in mind when designing.
 
 Once you have your inspiration and abstract principles established, you're ready to move on. Keep this design file handy for the next lesson.

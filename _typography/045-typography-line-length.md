@@ -23,4 +23,4 @@ In the [last exercise]({{ site.baseurl }}{% link _typography/040-typography-cons
 6. Move your mouse over the ruler on the left edge of the design area until the cursor changes to a double-sided arrow. Click and drag to create a vertical ruler, positioning it over the left edge of the paragraph until it snaps. Repeat the procedure to create a ruler on the right edge of the paragraph.
 7. Position all the other text blocks using those same rulers. Move and resize them until you have a single column for all your text.
 
-When finished, you now have a near-complete typographic system. The only thing left to do is work out the spacing between blocks of text which you'll tackle in the next lesson. Keep this file handy.
+In the next lesson, you're going to work out the vertical spacing between blocks of text. Keep this file handy.
