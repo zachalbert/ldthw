@@ -1,11 +1,12 @@
 ---
+title: 'Typography: Color'
+date: 2017-01-01 20:37:11 Z
 layout: post
-title:  "Typography: Color"
-date:   2017-01-01 13:37:11 -0700
 todo:
 - Hanging punctuation
 - Ligatures
 ---
+
 * Text color
 * affordances of links
 * Underlined text is historically a link style. While your links don't *have* to use underlines, avoid underlining non-link text. When present, underlines almost always communicate that text is clickable.

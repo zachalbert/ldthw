@@ -6,6 +6,7 @@ tags:
 id: 1
 layout: post
 ---
+
 Developing your skill in working with color is one of the most challenging, but rewarding aspects of design. It can make a boring design captivating, it can communicate and sway emotions, and can do all those things in a split second. The mastery of color is measured not in days or weeks, but in years.
 
 ### Buckle Up
