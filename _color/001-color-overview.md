@@ -6,22 +6,19 @@ tags:
 id: 1
 layout: post
 ---
-
-* High level goals for color:
-  - set expectations
-  - help them understand what it means to work with color
-
 Developing your skill in working with color is one of the most challenging, but rewarding aspects of design. It can make a boring design captivating, it can communicate and sway emotions, and can do all those things in a split second. The mastery of color is measured not in days or weeks, but in years.
 
 ### Buckle Up
 
-One of the reasons color is difficult is that it is a system of abstraction. <mark>The color "red" is actually a shared abstract concept that attempts to summarize a category of specific experiences related to the perception of certain wavelengths of light. <i> &larr; Try something like: <b>"Red" is an abstract concept. "Blue" attempts to summarize a category of specific experiences related to the perception of certain wavelengths of light.</b> ...</i></mark>
+One of the reasons color is difficult is that it is a system of abstraction. "Red" or "Blue" are just abstract concepts. The words point to a group of possible experiences with certain wavelengths of light. It's easy to say "Red," but difficult to know what another person means with precision.
 
-Historically, color theory is riddled with misconceptions, dogma, science and pseudoscience. It is also inherently subjective: color means something to humans, but that meaning changes across time, geography, and culture. Color also has a relative quality to it — the character of a specific color will change depending on the colors that surround it, the amount and quality of the light, and the fatigue in your eyes. The perception of color is also scientifically complex, involving the physics of light, and the structure of our eyes and brain — both things that we are still in the process of understanding fully. <mark><i>This paragraph feels confused. Maybe lead with: <b>Color is also difficult because it is inherently subjective</b> and then go into history, relative-ness and perception from there...</i></mark>
+Color is difficult because it's inherently subjective. Historically, color theory is riddled with misconceptions, dogma, science and pseudoscience, which makes it difficult to pin down observable rules about why one color expression is more aesthetically pleasing than another. Aesthetics change by culture, geography, and time period.
+
+Color also has a relative quality to it — the character of a specific color will change depending on the colors that surround it, the amount and quality of the light, and the fatigue in the viewer's eyes. This complexity involves the physics of light and the structure of the human eye and brain — which we are still in the process of understanding fully.
 
 ### What You Will Learn
 
-Despite the complexity of learning color, you will walk away from this section with enough knowledge to march bravely into your own color explorations. <mark><strike>You will balance learning theory with putting that theory into practice.</strike> <i>Kill</i></mark>
+Despite the complexity of learning color, you will walk away from this section with enough knowledge to march bravely into your own color explorations.
 
 You will not get better at color in a day, or a week. But I encourage you to learn these fundamentals, maintain your open-minded spirit of adventure, and practice with discipline.
 
@@ -33,7 +30,9 @@ Humans are capable of perceiving pleasing color without any training. Even from 
 
 Though modern color theory is rooted in study, experiment, and observation, it should never be a prison. The final metric to judge your command of color theory is your ability to faithfully produce aesthetically pleasing color combinations.
 
-As you go through these exercises, trust your own perceptions of what you find pleasing. You are the authority on your personal aesthetic. At the same time, develop your sense for what your target audience finds aesthetically pleasing. <mark>When doing design, the aesthetic values of your audience should take priority over your own. <i>&larr; Feels like this idea is important enough to emphasize somehow, maybe unpack in its own paragraph...</i></mark>
+As you go through these exercises, trust your own perceptions of what you find pleasing. You are the authority on your personal aesthetic, which will develop over time the more you practice.
+
+At the same time, develop your sense for what your target audience finds aesthetically pleasing. When doing design, **the aesthetic values of your audience should take priority over your own.**
 
 <!--more-->
 ## Exercise
