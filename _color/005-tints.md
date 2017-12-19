@@ -7,11 +7,11 @@ layout: post
 video: color/color-variants-01-creating-tints.mp4
 ---
 
-Creating a color palette is an exploratory process that requires you to look at many variations before settling on a final arrangement. While you will be thinking about which hues go well together, you'll also need to decide on many other components of the color palette.
+Creating a color palette is an exploratory process that requires you to look at many variations before settling on a final arrangement. While you will be thinking about which hues go well together, you'll also need to decide on many other components of the color palette. <!-- Might want to link back to Hue definition, or define it alongside your tint, shade and tone cheatsheet below. -->
 
 ### Tints, Shades, and Tones
 
-Tints, shades, and tones are three common methods for modifying a single hue. When creating a new color palette, it's common to generate at least a few tint, shade, and tone variants for the core colors in your palette. These variants are usually required later in the design process. For instance, one probably you'll probably run into eventually is trying to use a core brand color for links. It might look vibrant when used for buttons, but washed out when used for text links since text has less "mass." In cases like this, you may have to use a shaded variant to make the text appear optically consistent with other uses of the brand color.
+Tints, shades, and tones are three common methods for modifying a single hue. When creating a new color palette, it's common to generate at least a few tint, shade, and tone variants for the core colors in your palette. These variants are usually required later in the design process. For instance, one problem you'll probably run into eventually is trying to use a core brand color for links. Your color might look vibrant when used for buttons, but washed out when used for text links since text has less "mass." In cases like this, you may have to use a shaded variant to make the text appear optically consistent with other uses of the brand color.  <!-- Feels like this is a great time to reference/illustrate color perception from your color psychology chapter. -->
 
 Here's a tint, shade, and tone cheat sheet:
 
