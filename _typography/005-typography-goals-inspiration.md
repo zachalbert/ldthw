@@ -3,6 +3,7 @@ title: 'Typography: Goals & Inspiration'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 Designing with type involves many tiny decisions. While it can take time to learn the nuance, you're going to learn a framework to walk you through the important decisions. This system is not meant to be restrictive, nor will it make you a master on its own, but will provide you with a foundation to expand your learning and typographic exploration.
 
 ### Designing Type Systems

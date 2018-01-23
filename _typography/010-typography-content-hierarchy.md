@@ -3,6 +3,7 @@ title: 'Typography: Content Hierarchy'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 Now that you've established your typographic goals and found some inspiration, the first step to building a type system is to arrange your text blocks within a frame. You will start that process in the exercise below. First, some theory.
 
 ### Content is King

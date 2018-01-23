@@ -3,6 +3,7 @@ title: 'Typography: Overview'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 In the following series of lessons, you're going to learn some fundamentals about working with typography. You'll also learn a framework to create a typographic system from scratch, which will allow you to pick fonts and set up rules for any new design project.
 
 It's said that the web is 95% type. While that number is decreasing as other forms of media take center stage, you cannot escape working with text as a designer.

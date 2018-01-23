@@ -3,6 +3,7 @@ title: 'Typography: Classification'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 * Why these classifiers are useful
 * Basic type anatomy, and why they're important (x height, cap height, modulation, terminals + serifs)
 * Basic type classification using Vox-ATypeI — broad categories
