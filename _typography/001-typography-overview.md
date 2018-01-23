@@ -9,6 +9,8 @@ It's said that the web is 95% type. While that number is decreasing as other for
 
 Working with text is also very difficult, as typographic skill can feel like an arcane art. You will learn some rules of thumb in these lessons which will help you avoid common mistakes, but they won't make you a master. Like everything in design, it will take focused observation, practice, and experimentation to really get a handle on working with typography.
 
+Since typography can be so challenging, my advice is to lean into it and just become a typography nerd if you aren't already. Learn to love the nuances of typography and devote yourself to mastering them.
+
 ### Important Concepts
 
 Before we begin, there are a few important concepts to learn.
@@ -19,13 +21,19 @@ It's also important to state the difference between a font and a typeface. Yes, 
 
 Finally, learn the difference between **legibility** and **readability**. Legibility deals with a reader's *ability* to read a passage of text. A legible passage is large enough to see, has sufficient contrast with the background it's on, and there is sufficient space around each letter so they can be made out individually. Readability, on the other hand, deals with the reader's *desire* to read a passage of text. A readable passage is legible, but is also set in an aesthetically pleasing way that doesn't strain the reader's eye. 20 pages of legalese terms of service documentation is a good example of text that is legible, but not readable.
 
-### A Brief History of Typography in Design
+### A Brief History of Typography
 
-Typography stretches back to the invention of moveable type, first by the Chinese, and later by the Germans. Moveable type referred originally to wooden blocks of individual letters that can be moved around, inked, then pressed into paper.
+The use of reusable characters probably stretches all the way back to the second century BC, in the use of identical cuneiform characters to create identical characters in wet clay.
 
-This technology proceeded for hundreds of years until desktop publishing came about in the 1980's. Most typographic knowledge digital designers use today is rooted in the era of moveable type. You will see echoes of this in terminology like "leading" (also called line height), which referred to strips of lead printers would place between lines of text to space them out.
+The first instance of moveable type, where characters were arranged and pressed into paper, was originally invented by the Chinese in the 10<sup>TH</sup> century AD. They used ceramic characters, and later wood and bronze.
 
-<!-- TODO: Bringhurst link, and more history: https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326 -->
+The first instance of lead based moveable type and the mechanical printing press was invented by Johannes Gutenberg in 1439, who printed the Christian Bible as the first mass-produced printed work (known as the *Gutenberg Bible*). This began a cultural revolution by drastically reducing the costs of printing. The printing revolution led to widespread growth in literacy.
+
+Designers typically consider this the root of typographic art, as typefaces could be reproduced more easily. Many typefaces created during this era are still in use today, such as the classic old-style serif face Garamond.
+
+Lead-based typography continued until the next big revolution in printing with the invention of personal computers and desktop publishing in the 1980s. Fonts, originally sets of physical characters, became digital files which were designed to be displayed on a screen or printed.
+
+For additional history and stylistic advice on working with typography, I'd recommend further reading in [Elements of Typographic Style by Robert Bringhurst](https://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326).
 
 ### Typographic Character
 
@@ -36,14 +44,6 @@ For instance, American readers may be familiar with the American Declaration of 
 ![Original Declaration of Independence](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence#/media/File:United_States_Declaration_of_Independence.jpg)
 
 <!-- TODO: Show a portion of the declaration of independence set in comic sans, and an office memo about washing the dishes set in some type of blackletter -->
-
-### Designing Type Systems
-
-In the following series of lessons, you'll learn a framework to structure all the tiny typographic decisions you need to make. This is not a perfect framework, but it will give you a roadmap to set more beautiful type.
-
-The framework will ask you to create a *typographic system*. This system will yield typography that is internally consistent and interdependent. By making a few base decisions, you'll be able to follow rules to arrive at other decisions. This will make setting type faster, and less random.
-
-This framework will not make you an overnight expert in typography, but it will give you a solid foundation to continue your own observation and practice.
 
 <!--more-->
 ## Exercise
