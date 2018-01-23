@@ -8,7 +8,38 @@ layout: post
 * Basic type anatomy, and why they're important (x height, cap height, modulation, terminals + serifs)
 * Basic type classification using Vox-ATypeI — broad categories
 
-### headings
+It's time to start thinking about which typefaces you're going to pick. This lesson will remain somewhat abstract, which is going to help when you make your decision. Picking typefaces can be overwhelming, so this step is important to whittle down your choices.
+
+### Classification
+
+There have been several attempts over the years to classify typography based on the visual characteristics of the letters, in the same way that scientists have created systems to classify plants and animals.
+
+You're going to learn briefly about one of the more popular classification systems — Vox-ATypI (which is a combination of the name of its creator — Maximilien Vox, and the Association Typographique Internationale which adopted it in 1962). It isn't the only one, but is a good starting place.
+
+### Vox-ATypeI
+
+This classification system groups typefaces into 14 categories, within 3 broader groups: classicals, moderns, and calligraphics.
+
+[hide]
+1	Classicals
+1.1	Humanist
+1.2	Garalde
+1.3	Transitional
+2	Moderns
+2.1	Didone
+2.2	Mechanistic
+2.3	Lineal
+2.3.1	Grotesque
+2.3.2	Neo-grotesque
+2.3.3	Geometric
+2.3.4	Humanist
+3	Calligraphics
+3.1	Glyphic
+3.2	Script
+3.3	Graphic
+3.4	Blackletter
+3.5	Gaelic
+4	Non-latin
 
 <!--more-->
 ## Exercise
