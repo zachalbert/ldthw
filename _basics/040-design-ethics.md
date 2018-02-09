@@ -7,3 +7,4 @@ layout: post
 * Why are a code of ethics important for designers?
 * Great power, great responsibility
 * Pull quote from articles on facebook et al
+* The only type of ethical design is one in which incentives are aligned between persuader and persuaded.

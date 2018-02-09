@@ -3,14 +3,53 @@ title: 'Typography: Base Font Size'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+Now that you've picked the fonts you want to use in your design, it's time to start thinking about sizing and spacing. This is where you'll really start to build a typographic system.
 
-* The size and line height of your body copy is the heart of an internally consistent system
-* This will focus on your base font size, and all other sizes will be based on the decisions you make here.
-* Refer to [units of measure]({{ site.baseurl }}{% link _basics/015-units-of-measure.md %})
-* Start with system defaults (14, 16, 17), vary from there
-* Font sizes should vary by device, but when starting out, pick sizes that work across a range of devices to minimize complexity
-* Think about context: will the reader be reading lots of text? Or will they be reading sparingly? Mobile or desktop primarily?
-* Look at a few examples. Designing a news site — look at a lot of news sites.
+## Building a System
+
+The difference between a typographic "system" and a bunch of random choices is that your system will be internally consistent. Sizes and spacing at one size will mimic sizes and spacing at another. It will also make new decisions much easier, once your system is established.
+
+There are 2 root measurements that form the DNA of your typographic system — **base font size** and **base line height**. These base measurements will apply to paragraphs of body copy, and all other text in your content hierarchy will mirror it.
+
+## Rules of Thumb
+
+When deciding on your base font size, here are a few things to keep in mind.
+
+### Start With Defaults
+
+System defaults are a good starting point, since users are most familiar with these. System defaults will feel "natural."
+
+Refer to the lesson on [units of measure]({{ site.baseurl }}{% link _basics/015-units-of-measure.md %}) for a refresher on the different types of units in the table below.
+
+| Device | Default Font Size |
+|-|-|
+| Web | 16px |
+| iOS | 17pt |
+| Android | 14sp (15sp on desktop)[^1] |
+
+[^1]: Android actually uses many sizes depending on user preference and device, so refer to the [Material Guidelines](https://material.io/guidelines/style/typography.html) for in-depth information about font sizes.
+
+### Think of Viewing Context
+
+After starting with the default, you may still have cause to vary it.
+
+For instance, if you're designing a dashboard for a wall-mounted display intended to be viewed from far away, then you'll want to increase your base size. On the other hand, if you're designing an experience for mobile with limited text, you may want to err on the side of smaller text.
+
+However, you should rarely go smaller than the default sizes for your base font size for legibility reasons. It's okay to use smaller sizes for levels of your content hierarchy that support the main text (such as image captions), but do so sparingly and carefully.
+
+### Get Inspiration
+
+It's also a good idea to see what others are doing. If you're designing a news website, check out a bunch of other news websites to see what the average body copy size is. If you're designing a mobile app, compare your screens to other similar apps.
+
+**However: don't simply copy the patterns you see.** The goal of gathering inspiration is to make an *informed decision*. If your readers are used to small text for similar products, then it may be the best idea to buck that trend if you're trying to stand out. Or, you may want to borrow the patterns from *one domain*, and apply them to another for effect.
+
+You can use browser extensions like [Fontface Ninja](https://fontface.ninja/) to quickly inspect the fonts and sizes used on websites. For mobile apps, you can take a screenshot and use tools like [WhatTheFont](https://www.myfonts.com/WhatTheFont/), [IdentiFont](http://www.identifont.com/), and [Matcherator](https://www.fontspring.com/matcherator) to attempt to identify fonts from an image.
+
+### Test Early, Test Often!
+
+The final, and most important rule of thumb is to test your design often on the actual device you're designing for. Use tools like [Figma Mirror](https://www.figma.com/mirror) to see your design updated on your mobile device in real time as you design. If you're designing a website, export your design as a PNG and open it in a browser to get a feel for how it looks. If you're designing a banner ad, then drop it on top of a screenshot of the website it'll be viewed on.
+
+Often, type sizes that look good on screen look wrong when you actually see them in context, so make this a habitual part of your design process.
 
 <!--more-->
 ## Exercise

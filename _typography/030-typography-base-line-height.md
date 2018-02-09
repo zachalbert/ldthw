@@ -3,15 +3,25 @@ title: 'Typography: Base Line Height'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+In the [last exercise]({{ site.baseurl }}{% link _typography/025-typography-base-size.md %}), you picked a base font size for your typographic system. In this exercise, you're going to decide on your **base line height**. These two numbers form the DNA of your typographic system.
 
-* Line height, and the foundational importance of that measurement in the layout
-* Importance of appropriate line height on readability and legibility, plus finding the next line of text.
-* Rule of thumb: 1.2 - 1.5
-* While you can keep your line height in percentages, round up or down to a whole number so you can use the metric for layout purposes more easily.
-* Rhythm
+## Why Line Height is Important
 
+The line height for your body copy establishes a rhythm and cadence to the lines of text on the page. Because these are often abundant in design, it makes sense to mirror this rhythm in other areas of your design. When you do, you will end up with a design that feels incredibly stable and intentional, like the difference between a piece of classical music and jazz improv.
 
-### headings
+### Reading Speed and Fatigue
+
+### Line Height vs Line Length
+
+### Vertical Rhythm
+
+## Rules of Thumb
+
+### 1.2 – 1.5
+
+### Measurements
+
+% vs px vs unitless; whole numbers vs non.
 
 <!--more-->
 ## Exercise

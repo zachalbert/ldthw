@@ -6,21 +6,27 @@ layout: post
 
 In the following series of lessons, you're going to learn some fundamentals about working with typography. You'll also learn a framework to create a typographic system from scratch, which will allow you to pick fonts and set up rules for any new design project.
 
-It's said that the web is 95% type. While that number is decreasing as other forms of media take center stage, you cannot escape working with text as a designer.
+It's said that the web is 95% type. While that number is decreasing as other forms of media take center stage, designers can never fully escape working with text. Working with text is also quite challenging. All the terms and rules to memorize can make it feel like an arcane art. Despite the challenge however, mastering typography is a worthy goal designers should aspire to.
 
-Working with text is also very difficult, as typographic skill can feel like an arcane art. You will learn some rules of thumb in these lessons which will help you avoid common mistakes, but they won't make you a master. Like everything in design, it will take focused observation, practice, and experimentation to really get a handle on working with typography.
-
-Since typography can be so challenging, my advice is to lean into it and just become a typography nerd if you aren't already. Learn to love the nuances of typography and devote yourself to mastering them.
+In these lessons, you will learn some rules of thumb which will help you avoid common mistakes, but they alone won't make you a master. Like everything in design, it will take focused observation, practice, and experimentation to really get good at it.
 
 ### Important Concepts
 
 Before we begin, there are a few important concepts to learn.
 
-Typography is the study of working with **pre-designed letters**. Lettering and font design deal with the creation of new letterforms, which we are not going to get into in these lessons as they represent an art form unto themselves. There is a certain amount of overlap between the subjects though, so some of what you learn here can be carried forward if you choose.
+Typography is the study of setting, laying out, and designing with **pre-designed letters**, which have been created by font designers and foundries.
 
-It's also important to state the difference between a font and a typeface. Yes, it's a little pedantic, but if you ever work with another designer, they'll appreciate your precision. A **typeface** is the overall design of letterforms in a specific style by a font foundry or font designer, like "Garamond" or "Helvetica". A **font** is a specific instance of a single typeface that enables the typeface to be used. For example, the *fonts* "Times New Roman Bold 16pt" and "Times New Roman Italic 20pt" are both part of the *typeface* "Times New Roman."
+These font creators design **typefaces**, which is the specific design choices for a complete set of letters. An example of a typeface would be "Helvetica" or "Garamond".
 
-Finally, learn the difference between **legibility** and **readability**. Legibility deals with a reader's *ability* to read a passage of text. A legible passage is large enough to see, has sufficient contrast with the background it's on, and there is sufficient space around each letter so they can be made out individually. Readability, on the other hand, deals with the reader's *desire* to read a passage of text. A readable passage is legible, but is also set in an aesthetically pleasing way that doesn't strain the reader's eye. 20 pages of legalese terms of service documentation is a good example of text that is legible, but not readable.
+A **font** is a usable instance of a single typeface. For example, the *fonts* "Times New Roman Bold 16pt" and "Times New Roman Italic 20pt" are both part of the *typeface* "Times New Roman."
+
+Sometimes "font" and "typeface" are used interchangeably. If you want to be a pedantic know-it-all, make sure to correct anyone misusing the terms.
+
+Finally, there are two main goals in setting type: **legibility** and **readability**.
+
+**Legibility** deals with a reader's *ability* to read a passage of text. A legible passage uses letters that are large enough to see, contrast with the background, and have appropriate space around each so they can be perceived individually.
+
+**Readability**, on the other hand, deals with the reader's *desire* to read a passage of text. A readable passage is not only legible, but is also set in an aesthetically pleasing way that doesn't strain the reader's eye. 20 pages of legalese terms of service documentation is a good example of text that is legible, but not readable.
 
 ### A Brief History of Typography
 

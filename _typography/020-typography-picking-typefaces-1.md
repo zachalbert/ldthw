@@ -3,18 +3,41 @@ title: 'Typography: Picking Typefaces 1'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+You're finally ready to start looking at typefaces. There are a dizzying array of options, so in this lesson you'll learn a few tips that will help you limit your choices.
 
-* difference between fonts and Typefaces
-* Rules of thumb:
-  * no more than 2 typefaces
-  * use sufficient contrast between headings (aka display) and body copy. Common contrasts are serif + non-serif, condensed and regular.
-  * The larger the font size, the more decorative your font can be. Body copy fonts should picked based on readability.
-* Look at font pairing websites and existing design for inspiration.
-* order:
-* What's available, and in budget?
-* What's the context where this will be read?
-* What best meets the brand and type goals already established?
-* Seeing is believing. You can't simply see another instance of type and know it'll work for you. Get it into your design app to play around with it. Use a matrix to see many instances together.
+## Rules of Thumb
+
+The follow rules *generally* apply, but like everything in design you can break the rules if you have a good reason.
+
+### 2 Typefaces Max
+
+While you will probably use many fonts in a given design, limit your typefaces to two at maximum. Usually, you should use one typeface for titles and headings, and another for body copy.
+
+### Sufficient Contrast
+
+When deciding which typefaces to pair with each other, make sure there is sufficient contrast between them. It's common to pair a sans-serif heading face with a serif body face, or vice versa. Avoid picking 2 different typefaces of a similar design to pair together, in the same way that it's a fashion best practice to avoid wearing two different types of plaid.
+
+### Display vs Body
+
+When picking a typeface for "display" purposes (where the intended use is titles, major headings, and anywhere you're using a larger font size), you can get significantly more creative and decorative with your choice. Since titles are meant to stand out and will typically have a very low character count, you can get away with a more idiosyncratic typeface.
+
+However, when picking a typeface intended for body copy, optimize for legibility (aka make it more boring). A reader will spend the majority of their time reading body copy, and your goal should be to minimize eye strain and reduce the effect of reading fatigue.
+
+### What's Your Budget?
+
+Good typography costs money — *(usually)*. [Google Fonts](https://fonts.google.com/) has made many professional-quality typefaces available for use on the web for free. However, it's a limited subset of what you can get if you have a budget for typography.
+
+A couple of non-free options with very high quality typography are [Typekit](https://www.typekit.com/) and [MyFonts](https://www.myfonts.com/), which aggregates many professional typefaces, and [Hoefler&Co](https://www.typography.com), a famous type foundry that has many high-quality options to choose from.
+
+### Pairing Inspiration
+
+Typeface pairing websites are popular for beginners who want to look at some easy pairing options. It's best not to rely on pairings you find exclusively, but they can be a great source of inspiration. [Google the phrase "font pairing"](https://www.google.com/search?q=font+pairing&oq=font+pairing) to find a list of possibilities. There are also font pairings that focus exclusively on fonts available from a specific source, such as [Font Pair](https://fontpair.co/).
+
+### Brand
+
+Once you've picked a source for where you'll find the typeface you're looking for, next you'll need to think about your brand. Look at your inspiration and goals as you look through typeface options, and think carefully about whether a certain style "fits" the brand image you're going for. The best way to make this determination is to look at lots of other design in the same style. What are the unique characteristics of the type used in those examples?
+
+In this exercise, you're going to pick several options. You won't make your final decision until the next lesson.
 
 <!--more-->
 ## Exercise
