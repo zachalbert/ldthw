@@ -3,6 +3,7 @@ title: 'Typography: Picking Typefaces 2'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 In the [last exercise]({{ site.baseurl }}{% link _typography/020-typography-picking-typefaces-1.md %}), you downloaded a few fonts to try out. In this exercise, you're going to walk through the process of making a final decision.
 
 ## Seeing is Believing

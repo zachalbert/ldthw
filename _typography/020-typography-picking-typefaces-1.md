@@ -3,6 +3,7 @@ title: 'Typography: Picking Typefaces 1'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 You're finally ready to start looking at typefaces. There are a dizzying array of options, so in this lesson you'll learn a few tips that will help you limit your choices.
 
 ## Rules of Thumb

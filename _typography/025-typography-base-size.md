@@ -3,6 +3,7 @@ title: 'Typography: Base Font Size'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 Now that you've picked the fonts you want to use in your design, it's time to start thinking about sizing and spacing. This is where you'll really start to build a typographic system.
 
 ## Building a System

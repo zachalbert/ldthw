@@ -3,6 +3,7 @@ title: 'Typography: Classification'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 It's time to start thinking about which typefaces you're going to pick. Before you do, it's a good idea to pick a *category* of typeface first based on the goals you have, which will narrow down your possible choices. There are an overwhelming number of typefaces available to designers today.
 
 ### Classification

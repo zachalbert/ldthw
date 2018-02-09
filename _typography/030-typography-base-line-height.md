@@ -3,6 +3,7 @@ title: 'Typography: Base Line Height'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 In the [last exercise]({{ site.baseurl }}{% link _typography/025-typography-base-size.md %}), you picked a base font size for your typographic system. In this exercise, you're going to decide on your **base line height**. These two numbers form the DNA of your typographic system.
 
 ## Why Line Height is Important
