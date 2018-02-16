@@ -42,11 +42,11 @@ For each of the rows in the following table, copy the text into a new fixed-widt
 
 | Text Block Type | Level in Content Hierarchy | Tag in HTML | Default Size[^1] | Sample Text[^2] |
 |-|-|-|-|
-| Fixed-width | Title | `<h1>` | 36 | Traveling to Fiji |
+| Fixed-width | Title | `<h1>` | 64 | Traveling to Fiji |
 | Fixed-width | Subtitle | `<h2>` | 24 | The Tourism Industry in Fiji |
-| Fixed-width | Secondary Subtitle | `<h3>` | 20 | CNN named Fiji’s Laucala Island Resort as one of the fifteen world’s most beautiful island hotels |
+| Fixed-width | Secondary Subtitle | `<h3>` | 24 | CNN named Fiji’s Laucala Island Resort as one of the fifteen world’s most beautiful island hotels |
 | Fixed-width | Body | `<p>` | 16 | Fiji has a significant amount of tourism with the popular regions being Nadi, the Coral Coast, Denarau Island, and Mamanuca Islands. The biggest sources of international visitors by country are Australia, New Zealand and the United States. Fiji has a significant number of soft coral reefs, and scuba diving is a common tourist activity. |
-| Fixed-width | Secondary Subtitle | `<h3>` | 20 | The Main Attractions |
+| Fixed-width | Secondary Subtitle | `<h3>` | 24 | The Main Attractions |
 | Fixed-width | Body | `<p>` | 16 | Fiji's main attractions to tourists are primarily white sandy beaches and aesthetically pleasing islands with all-year-round tropical weather. In general, Fiji is a mid-range priced holiday/vacation destination with most of the accommodations in this range. It also has a variety of world class five-star resorts and hotels. More budget resorts are being opened in remote areas, which will provide more tourism opportunities. CNN named Fiji’s Laucala Island Resort as one of the fifteen world’s most beautiful island hotels. |
 | Fixed-width | Small | `<small>`, `<figcaption>` | 14 | Coconut palms line the beaches of Fiji[^3] |
 

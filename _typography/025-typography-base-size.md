@@ -63,7 +63,7 @@ To complete this exercise, you will probably need to refer to the lesson on [uni
   * X-height — does the typeface you chose have a tall or short x-height? The shorter the x-height is, the larger you'll need to make your font size to ensure readability. Two typefaces can look very different, even if they share the same font size.
   * Brand — do similar brands use larger or smaller font sizes? I use the browser extension [Fontface Ninja](https://fontface.ninja/) to quickly inspect font choices used on websites.
 3. Try a couple sizes out before landing on one. Like in the last exercise on picking typefaces, seeing is believing. Duplicate your art board to try different body copy sizes, then make sure you <span data-keyCombo="view-100%">view the design document at 100%</span>.
-4. You can pick a different font size in your design file. If you want to follow along exactly though, I am going to pick 18pt. It's slightly larger than the browser default of 16, which will create less eye strain when reading long-form articles. Change the two paragraphs of body copy to your chosen value, but don't worry about the other blocks of text yet.
+4. You can pick a different font size in your design file. If you want to follow along exactly though, I am going to pick 16px. Change the two paragraphs of body copy to your chosen value, but don't worry about the other blocks of text yet.
 
 [1]: While it is possible to change your font sizes depending on the device size, this greatly increases the complexity of your type system and makes implementation more challenge. For now, start with a size that works well on mobile and larger desktop displays.
 

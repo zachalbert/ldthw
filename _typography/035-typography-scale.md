@@ -3,38 +3,52 @@ title: 'Typography: Type Scale'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+Building on the [last exercise]({{ site.baseurl }}{% link _typography/030-typography-base-line-height.md %}) wherein you established your base line height, you're now going to establish a type scale. A type scale is a limited set of font sizes that increase in consistent proportions. You have seen an example of a type scale if you've ever used a word processor like Word or Google Docs.
 
-* What it is, why it's important
-* The classic type scale
-* use your base ratio to determine your type scale
-* Map your content hierarchy to your newly created scale
-* Look for enough contrast between each of the levels. Size is not the only way to increase or decrease contrast — you can play around with different weights, italics, capitalization, and letter spacing too.
+## The Classic Scale
 
-### headings
+You've probably seen the classic type scale, which uses the font sizes 8, 9, 10, 11, 12, 14, 18, 24, 30, 36... and so on.
+
+Establishing a type scale is immensely useful because it helps you strike a balance between control, ease of use, and sufficient contrast between each level of your content hierarchy. Without a type scale, it can be challenging to decide on the font sizes you'll need, often leading to arbitrary and inconsistent decisions.
+
+## Sufficient Contrast
+
+A type scale will help you ensure there is sufficient contrast between each level of your content hierarchy. Titles should command more attention than subtitles, and subheadings should stand out enough from paragraphs of text to enable quick scanning of a text.
+
+As you explore different scales, keep contrast in mind. Contrast is more important than faithfulness to your scale. For instance, you may decide that subheadings (such as H3s and H4s) look better at the same size as your body copy, but set in uppercase with a bolder weight. As long as those subheadings stand out obviously from the body copy, then you can feel satisfied.
+
+## Designing A Type Scale
+
+The first step is to map out the limited set of font sizes you want to use.
+
+Your type scale will be based on your **base ratio**, which is your line height divided by your font size. Since we've established a 16/24 type system in the last couple of lessons, our base ratio is **1.5** (since 24 / 16 = 1.5).
+
+From this point on, planning out your type system is just a matter of multiplication. Here's an example:
+
+| Content Hierarchy | Formula | Final Font Size |
+| Level 1 (base) | — | **16px** |
+| Level 2 | 16px * 1.5 | **24px** |
+| Level 3 | 16px * 1.5 * 1.5 | **36px** |
+
+You can follow the same pattern to find other levels in your type scale, which you will do in this exercise.
 
 <!--more-->
 ## Exercise
-In the [last exercise]({{ site.baseurl }}{% link _typography/030-typography-base-line-height.md %}), you picked a base line height. You're going to use your base font size and line height to establish a type scale to size all of your other text blocks.
-
 1. Open up the design document you've been using in the last several typography lessons.
-2. Each level in your content hierarchy should increase in size based on the ratio between your base font size and base line height. Figure out what your ratio is with the formula `ratio = base line height / base font size`. In my case, the ratio is 1.333333333 (24 / 18 = 1.333333333). Hereafter the ratio will be summarized as 1.3̅.
-3. To figure out the next size up in your type scale, multiply your **base font size** by your **ratio**. Multiply by your ratio *again* to get the next size up, and so on. The following table illustrates how this works.
+2. Figure out what your base ratio is — if you've been following along and are designing a 16/24 type system, your base ratio is 1.5.
+3. To figure out the next size up in your type scale, multiply your **base font size** by your **ratio**. Multiply by your ratio *again* to get the next size up, and so on. The following table illustrates how this works. Create a text object in your design document for each level in your hierarchy.
 
 | Content Hierarchy Level | Formula (base font size * ratio) | **Final Font Size** |
 |-|-|-|
-| Paragraph text | — | **18px** |
-| H3 text | 18px * 1.3̅ | **24px** |
-| H2 text | 18px * 1.3̅ * 1.3̅ | **32px** |
-| H1 text | 18px * 1.3̅ * 1.3̅ * 1.3̅ | 42.6px, rounded down to **42px** |
-| Caption text | 18px / 1.3̅ | 13.5px, rounded up to **14px** |
+| Paragraph text | — | **16px** |
+| H3 text | 16px * 1.5 | **24px** |
+| H2 text | 16px * 1.5 * 1.5 | **36px** |
+| H1 text | 16px * 1.5 * 1.5 * 1.5 | **54px** |
+| Big text | 16px * 1.5 * 1.5 * 1.5 * 1.5 | **81px** |
+| Small text | 16px / 1.5 | ~10.67px (likely rounded up to 11px or 12px) |
 
-There are a few interesting things to note in this type scale.
-* You could use the same formulas to create additional levels in the content hierarchy. You also don't have to increase font sizes by a single step at a time, either. You could let H3s be 24, or 32, or keep them at 18 but using a bold font style to differentiate them from paragraph text.
-* For the H1, we got a number with a decimal place. While there's nothing majorly wrong with a number like that, it's easier to work with whole numbers. Devices can still only display text in whole pixel values, but with modern devices, pixel density is fine enough that you can get away with strange numbers if you really want to. No design system should be a prison, even if it's a system you created for yourself. You always have the option to exercise creative license.
-* We also rounded the caption text up. I did that so the text didn't get too small to read. While 14px is still legible for most readers, it's potentially too small for some. It's best to err on the side of larger text when in doubt.
-* Because our ratio is a long number, I summarized it in the table above as 1.3̅. However, when calculating these values, I found that I had to type the full ratio of 1.333333333 to yield whole numbers.
-* If you picked different numbers for your base font size and line height, you will arrive at different final values. That's okay — learn the formulas so you can replicate this system in the future.
+4. Notice that there are both "big" and "small" levels in the content hierarchy. "Big" corresponds to text like extra large titles, drop caps, and "small" refers to things text like captions, annotations, etc. Since small text can be hard to read, it's okay to take some artistic license and make it a bit larger than the math dictates. You can also set small text in uppercase characters, which can make small point sizes more legible.
+5. Now that you have a type scale, change all of your text blocks to match.
+6. Once done, then it's time to put on your analysis hat and figure out if any sizes look off to you. Remember that your goal is sufficient contrast between each level of your content hierarchy, and the tools at your disposal are font size, font weight, italics, and capitalization. If a subheader looks too big for instance, try bumping it to the next level down in the type scale and using other font styling options to differentiate it.
 
-4. Now that you have a type scale, change all of your text blocks to match.
-
-When done, all the text blocks in your frame should have a size that matches your type scale. In the next lesson, you're going to pick an appropriate line height for those same text blocks. Keep this file handy.
+When done, all the text blocks in your frame should conform to your type scale and maintain sufficient contrast from each other. In the next lesson, you're going to pick an appropriate line height for those same text blocks. Keep this file handy.
