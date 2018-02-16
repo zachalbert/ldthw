@@ -26,6 +26,7 @@ Your type scale will be based on your **base ratio**, which is your line height 
 From this point on, planning out your type system is just a matter of multiplication. Here's an example:
 
 | Content Hierarchy | Formula | Final Font Size |
+|-|-|-|
 | Level 1 (base) | — | **16px** |
 | Level 2 | 16px * 1.5 | **24px** |
 | Level 3 | 16px * 1.5 * 1.5 | **36px** |
@@ -49,6 +50,6 @@ You can follow the same pattern to find other levels in your type scale, which y
 
 4. Notice that there are both "big" and "small" levels in the content hierarchy. "Big" corresponds to text like extra large titles, drop caps, and "small" refers to things text like captions, annotations, etc. Since small text can be hard to read, it's okay to take some artistic license and make it a bit larger than the math dictates. You can also set small text in uppercase characters, which can make small point sizes more legible.
 5. Now that you have a type scale, change all of your text blocks to match.
-6. Once done, then it's time to put on your analysis hat and figure out if any sizes look off to you. Remember that your goal is sufficient contrast between each level of your content hierarchy, and the tools at your disposal are font size, font weight, italics, and capitalization. If a subheader looks too big for instance, try bumping it to the next level down in the type scale and using other font styling options to differentiate it.
+6. Once done, then it's time to put on your analysis hat and figure out if any sizes look off to you. Remember that your goal is sufficient contrast between each level of your content hierarchy, and the tools at your disposal are font size, font weight, italics, capitalization, and typeface. If a subheader looks too big for instance, try bumping it to the next level down in the type scale and using other font styling options to differentiate it. I chose to make my H2 and H3 the same size, but I gave my H2 an italicized version of my display face, Playfair.
 
 When done, all the text blocks in your frame should conform to your type scale and maintain sufficient contrast from each other. In the next lesson, you're going to pick an appropriate line height for those same text blocks. Keep this file handy.
