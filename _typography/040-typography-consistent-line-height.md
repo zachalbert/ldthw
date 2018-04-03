@@ -3,6 +3,7 @@ title: 'Typography: Consistent Line Heights'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 In the [last exercise]({{ site.baseurl }}{% link _typography/035-typography-scale.md %}), you picked font sizes for all text blocks in your design document based on a type scale. In this exercise you're going to be picking line heights for all levels of your content hierarchy.
 
 ## Internal Consistency & Alignment

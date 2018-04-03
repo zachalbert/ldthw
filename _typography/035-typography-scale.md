@@ -3,6 +3,7 @@ title: 'Typography: Type Scale'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 Building on the [last exercise]({{ site.baseurl }}{% link _typography/030-typography-base-line-height.md %}) wherein you established your base line height, you're now going to establish a type scale. A type scale is a limited set of font sizes that increase in consistent proportions. You have seen an example of a type scale if you've ever used a word processor like Word or Google Docs.
 
 ## The Classic Scale

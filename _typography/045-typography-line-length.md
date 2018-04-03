@@ -3,6 +3,7 @@ title: 'Typography: Line Length'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 You just changed all the line heights for your blocks of text, so in this exercise you're going to figure out how wide your text should be. This width is called line length, or measure.
 
 ## Why Measure Matters

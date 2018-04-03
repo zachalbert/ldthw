@@ -6,6 +6,7 @@ todo:
 - Hanging punctuation
 - Ligatures
 ---
+
 In the last series of exercises, you went through the process of establishing a typographic system. In this exercise you're going to learn about two types of color as applied to typography — color (as in hue, saturation, and brightness), and typographic color, which refers to the overall density of a typographic design.
 
 ## Typographic Color

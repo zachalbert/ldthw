@@ -3,6 +3,7 @@ title: 'Typography: Spacing Multiples'
 date: 2017-01-01 20:37:11 Z
 layout: post
 ---
+
 This is the last official step to establish the measurements for your typographic system. All of your text blocks should have internally consistent line heights, and should be the same width as your paragraphs — which use optimal line lengths. The final step is decide on how much negative space to leave between each block of text.
 
 ## Rule of Proximity
