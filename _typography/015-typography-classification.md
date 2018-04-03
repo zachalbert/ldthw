@@ -32,19 +32,19 @@ Examples include Centaur and Cloister.
 
 #### 2. Garalde
 
-A more common, well-proportioned, higher contrast instance of classical humanist typefaces, Garaldes are still commonly used today.
+A more common, well-proportioned, higher contrast instance of classical humanist typefaces, Garaldes are still commonly used today — especially when the goal is to evoke a classical, old-style mood.
 
 Examples include Garamond and Bembo.
 
 #### 3. Transitional (aka Realist)
 
-These typefaces are the most common Classicals still in use today. The axis is more vertical and stroke modulation is higher.
+These typefaces are the most common Classicals still in use today, and thus the most familiar to readers and users. The axis is more vertical and stroke modulation is higher.
 
 Examples include the ubiquitous Times New Roman and Baskerville.
 
 ### Moderns
 
-The "modern" category of type came about with the advent of the industrial age, and is characterized by a more functional, geometric feel. The modern group also includes the "lineal" sub-group, which contains the significantly more utilitarian sans-serif typefaces.
+The "modern" category of type came about with the advent of the industrial age, and is characterized by a more functional, geometric feel. The modern group also includes the "lineal" sub-group, which contains all sans-serif typefaces.
 
 **Pick a modern typeface when your goal is to evoke a more contemporary or industrial feeling. Avoid if you're trying to show the human element in a brand.**
 
@@ -56,7 +56,9 @@ Examples include Didot and Bodoni.
 
 #### 5. Mechanistic
 
-These typefaces show more of the mechanical side of modern typefaces.
+The group containing slab-serif typefaces, these show more of the mechanical side of modern typefaces. They are characterized by low modulation and squared serifs that are usually similar in size to the stroke width of the letter.
+
+Examples include Clarendon and Rockwell.
 
 #### Lineals (aka Sans-Serif)
 
@@ -66,9 +68,19 @@ These typefaces do not use serifs on the end of strokes, which was a significant
 
 ##### 6. Grotesque
 
+Originally from the 19th century, these typefaces have slight modulation and were among the first to drop serifs. Typically the uppercase "R" has a curved leg, and the uppercase "G" has a spur. Terminals are typically flat.
+
+Examples include Headline and Akzidenz Grotesk.
+
 ##### 7. Neo-Grotesque
 
+A continuation of earlier Grotesque Lineals, the Neo-Grotesques are the most ubiquitous today and are characterized by more balanced, regular letterforms with slanted terminals, and subtle variations in stroke modulation.
+
+Examples include Helvetica and Univers.
+
 ##### 8. Geometric
+
+Geometric Lineals are a further continuation from the Grotesque typefaces, but heavily emphasize pure geometric forms. Rounded letters more often resemble perfect circles, and strokes are often *******
 
 ##### 9. Humanist
 
