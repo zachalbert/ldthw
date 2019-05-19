@@ -3,7 +3,59 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: jekyll-pages
+  label: Pages
+  create: all
+- type: directory
+  path: _uploads
+  label: Uploads
+  create: all
+  match: "**/*"
+- type: directory
+  path: _typography
+  label: Typography
+  create: all
+  match: "**/*"
+- type: jekyll-posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: _layout
+  label: Layout
+  create: all
+  match: "**/*"
+- type: directory
+  path: _imagery
+  label: Imagery
+  create: all
+  match: "**/*"
+- type: directory
+  path: _iconography
+  label: Iconography
+  create: all
+  match: "**/*"
+- type: directory
+  path: _gestalt
+  label: Gestalt
+  create: all
+  match: "**/*"
+- type: directory
+  path: _color
+  label: Color
+  create: all
+  match: "**/*"
+- type: directory
+  path: _basics
+  label: Basics
+  create: all
+  match: "**/*"
+- type: directory
+  path: _affordances
+  label: Affordances
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
@@ -12,6 +64,10 @@ file_template: ":filename:"
 build:
   preview_command: gatsby build
   publish_command: gatsby build
+  preview_env:
+  - JEKYLL_ENV=staging
+  publish_env:
+  - JEKYLL_ENV=production
   preview_output_directory: public
   output_directory: public
   instant_preview_command: gatsby develop -H 0.0.0.0 -p 8080
