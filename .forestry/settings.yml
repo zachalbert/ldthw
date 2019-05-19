@@ -71,4 +71,4 @@ build:
   - JEKYLL_ENV=production
   preview_output_directory: public
   output_directory: public
-  instant_preview_command: gatsby develop -H 0.0.0.0 -p 8080
+  instant_preview_command: bundle exec jekyll serve
