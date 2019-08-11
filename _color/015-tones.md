@@ -7,13 +7,13 @@ layout: post
 video: color/color-variants-03-creating-tones.mp4
 ---
 
-In the [last exercise]({{ site.baseurl }}{% link _color/010-shades.md %}), you created 4 shaded variations of a base color.
+In the [last exercise]({{ site.baseurl }}{% link _color/010-shades.md %}), you created 4 shaded variations of a base color. <!-- Looks like typically you spell out numbers except within the exercises, eg "increase by 10". Fine to just use numerals or spell out numbers, but be consistent either way… -->
 
 In this exercise, you're going to create 4 tonal variations. Tones are created when gray is added to a color — or put another way — when the color is desaturated.
 
-In nature, objects that recede in the distance become more desaturated. If you're in a jungle up close, the colors are overwhelmingly bright and saturated. However, if you look at a jungle from a great distance through many layers of atmosphere, the colors will be a more uniform gray.
+Desaturated color makes an object recede into the distance. In nature, distant objects look desaturated. The colors are overwhelmingly bright and saturated up close in a jungle. Because of the haze in the atmosphere, the colors will be a more uniform gray if you step back and look out at the jungle from a ridgetop.
 
-Tonal variations are a great way to achieve a more subtle, calming, natural effect. When mixed with white also, tonal variations take on a quality commonly referred to as "pastel."
+Tonal variations are a great way to achieve a more subtle, calming, natural effect. When mixed with white also, tonal variations take on a quality commonly referred to as "pastel."  <!-- This chapter still feels a bit sparse. Maybe expand with a few more sentences on how designers use tone? Like making stuff feel far away or whatever. -->
 
 <!--more-->
 ## Exercise
