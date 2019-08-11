@@ -8,9 +8,9 @@ layout: post
 video: color/color-models-01-using-hsb.mp4
 ---
 
-On a digital display, there are *millions* of possible colors. The labels we typically use to talk about colors are grossly inadequate from a design perspective. Even some of the more specific labels you might see at a paint store like "forest green" could refer to a thousands of possible greens.
+On a digital display, there are *millions* of possible colors. The labels we typically use to talk about colors are grossly inadequate from a design perspective. Even some of the more specific labels you might see at a paint store, like "forest green," could refer to a thousands of possible greens.
 
-Using these color labels is like telling the postal service you live "somewhere in the lower east side of Manhattan" and hoping they send your mail to the right location. You *could* get more specific and provide GPS coordinates to ensure accuracy, but it would also be impossible for a human to decipher without an electronic tool. A street address, however, is both accurate and easy for a human to understand with minimal assistance.
+Using these color labels is like telling the postal service you live "somewhere in the lower east side of Manhattan" and hoping they send your mail to the right location. You *could* get more specific and provide GPS coordinates to ensure accuracy, but it would also be impossible for a human to decipher without an electronic tool. A street address, however, is both accurate and easy for a human to understand with minimal assistance. <!-- To make the above comparison flow better, you might try something more direct and blunt for the final sentence. Like this: Or, you could just use a street address. -->
 
 ### HSB is Like a Street address
 
@@ -26,9 +26,10 @@ These three components can describe any possible color, and command over each of
 
 **Hue** points to a specific wavelength of light, and corresponds to the conceptual color categories like "red" or "blue". Most design software provides you with 360 possible hue values, going from red, to yellow, green, cyan, blue, magenta, and back to red.
 
-**Saturation**, sometimes called chroma in other color systems, refers to the purity of a color, such as the reddest red you can imagine. Pink is a form of red that is less saturated. A completely desaturated color is also known as a neutral or grayscale tone, which includes pure white and black.
+**Saturation** refers to the purity of a color. The reddest red you can imagine is fully saturated. Pink is a form of red that is less saturated. A completely desaturated color is also known as a neutral or grayscale tone, which includes pure white and black. *Note: saturation is sometimes called chroma in other color systems.
 
 **Brightness** refers to the amount of lightness or darkness perceived in a color. It shouldn't be confused with white, which is both fully bright and fully desaturated. A completely bright color which is also *saturated* will appear to the brightest, richest form of a hue. Think of primary colors, the red or yellow of a fire engine or emergency vehicle, or the orange of a traffic cone.
+<!-- These are excellent written descriptions, but it could be helpful to have some kind of illustrations to really cement the concept of hue, saturation and brightness in readers' minds. -->
 
 <!--more-->
 ## Exercises
