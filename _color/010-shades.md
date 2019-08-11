@@ -19,7 +19,9 @@ In this exercise, you're just going to create simple shades. For bonus points, t
 
 1. In the same design document you created in the last exercise, create a copy of your first circle directly underneath it. Double check that the fill color is `#407A80`.
 2. Create 4 copies of your new base color circle to the right.
-3. In the second circle from the left, reduce the brightness of the fill color by 10.
-4. Follow this same pattern for the other 3 so that the brightness is reduced by 10 each time. The last circle should have a brightness value of 10.
+3. In the second circle from the left, *reduce* the brightness of the fill color by 10.
+4. Follow this same pattern for the other 3 so that the brightness is *reduced* by 10 each time. The last circle should have a brightness value of 10.
 
 Creating shades are pretty simple. In the next exercise, you're going to create tonal variations, so hang on to this document.
+
+<!-- For clarity, maybe always offset commands like increase or reduce with italics like you did in Tints chapter. I'd probably also try to use the same word for consistency, e.g. "decrease" or "reduce", too. Just makes it easier for the reader to keep up with ya. -->
