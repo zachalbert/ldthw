@@ -10,7 +10,7 @@ todo:
   cmyk color spaces
 ---
 
-This lesson deals with the differences between `RGB` and `CMYK` color models. There is no accompanying exercise, because at the time of this writing, most design software *that specializes in UI* doesn't allow designers to work in `CMYK` mode — with the notable exception of the Adobe Creative Suite of products like Photoshop and Illustrator. Despite this , it's still important for a designer to understand the differences.
+This lesson deals with the differences between `RGB` and `CMYK` color models. There is no accompanying exercise, because at the time of this writing, most design software *that specializes in UI* doesn't allow designers to work in `CMYK` mode — with the notable exception of the Adobe Creative Suite of products like Photoshop and Illustrator. Despite this, it's still important for a designer to understand the differences.
 
 ### CMYK Mode
 
@@ -30,6 +30,8 @@ This lesson deals with the differences between `RGB` and `CMYK` color models. Th
 Here's why this matters. Different color spaces have different ranges of possible colors. The possible colors is known as the color space's "gamut." While most colors are achievable in both models, the `RGB` color space has a broader gamut that contains the entire gamut of `CMYK`. It doesn't cover *all* possible colors our eye can see, but allows for significantly brighter colors than the `CMYK` space.
 
 The reason why you need to know about this is that you may encounter a situation where you need to design for both a digital *and* print environment — the classic example being a logo. If you pick colors that are only possible in the `RGB` color space, then the logo will appear dull and dark when printed.
+
+<!-- Might be too neckbeard-y of me... but maybe include one of those crazy color gamut diagrams to help illustrate the difference between what's possible (or not) in various color spaces? -->
 
 ### Takeaway
 
